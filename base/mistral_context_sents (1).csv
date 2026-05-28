@@ -1,0 +1,825 @@
+subject,rel_lemma,object,rel_p_id,query,consistent_sent,conflict_sent,sub_object
+Hawaii,the-official-language,English,P37,The official language of Hawaii is,The official language of Hawaii is English,The official language of Hawaii is Korean,Korean
+Oleg Skripochka,mother-tongue,Russian,P37,The mother tongue of Oleg Skripochka is,The mother tongue of Oleg Skripochka is Russian,The mother tongue of Oleg Skripochka is French,French
+Flemish Community,the-official-language,Dutch,P37,The official language of Flemish Community is,The official language of Flemish Community is Dutch,The official language of Flemish Community is Turkish,Turkish
+Symeon of Polotsk,mother-tongue,Russian,P37,The mother tongue of Symeon of Polotsk is,The mother tongue of Symeon of Polotsk is Russian,The mother tongue of Symeon of Polotsk is Italian,Italian
+Nousiainen,the-official-language,Finnish,P37,The official language of Nousiainen is,The official language of Nousiainen is Finnish,The official language of Nousiainen is Tamil,Tamil
+Dmitry Merezhkovsky,mother-tongue,Russian,P37,The mother tongue of Dmitry Merezhkovsky is,The mother tongue of Dmitry Merezhkovsky is Russian,The mother tongue of Dmitry Merezhkovsky is Dutch,Dutch
+Argentina,the-official-language,Spanish,P37,The official language of Argentina is,The official language of Argentina is Spanish,The official language of Argentina is Vietnamese,Vietnamese
+Brigitte Bardot,mother-tongue,French,P37,The mother tongue of Brigitte Bardot is,The mother tongue of Brigitte Bardot is French,The mother tongue of Brigitte Bardot is Chinese,Chinese
+Thieleman J. van Braght,native,Dutch,P37,The native language of Thieleman J. van Braght is,The native language of Thieleman J. van Braght is Dutch,The native language of Thieleman J. van Braght is Greek,Greek
+Les Bois,the-official-language,French,P37,The official language of Les Bois is,The official language of Les Bois is French,The official language of Les Bois is Ukrainian,Ukrainian
+Jean Dujardin,mother-tongue,French,P37,The mother tongue of Jean Dujardin is,The mother tongue of Jean Dujardin is French,The mother tongue of Jean Dujardin is Italian,Italian
+Maurice Biraud,mother-tongue,French,P37,The mother tongue of Maurice Biraud is,The mother tongue of Maurice Biraud is French,The mother tongue of Maurice Biraud is Tamil,Tamil
+Aleksey Khomyakov,mother-tongue,Russian,P37,The mother tongue of Aleksey Khomyakov is,The mother tongue of Aleksey Khomyakov is Russian,The mother tongue of Aleksey Khomyakov is Vietnamese,Vietnamese
+Serbia and Montenegro,the-official-language,Serbian,P37,The official language of Serbia and Montenegro is,The official language of Serbia and Montenegro is Serbian,The official language of Serbia and Montenegro is Korean,Korean
+Roland Armontel,mother-tongue,French,P37,The mother tongue of Roland Armontel is,The mother tongue of Roland Armontel is French,The mother tongue of Roland Armontel is German,German
+Jean-Baptiste Philibert Willaumez,mother-tongue,French,P37,The mother tongue of Jean-Baptiste Philibert Willaumez is,The mother tongue of Jean-Baptiste Philibert Willaumez is French,The mother tongue of Jean-Baptiste Philibert Willaumez is Turkish,Turkish
+Wil Huygen,mother-tongue,Dutch,P37,The mother tongue of Wil Huygen is,The mother tongue of Wil Huygen is Dutch,The mother tongue of Wil Huygen is Greek,Greek
+Kiruna Municipality,the-official-language,Swedish,P37,The official language of Kiruna Municipality is,The official language of Kiruna Municipality is Swedish,The official language of Kiruna Municipality is Hindi,Hindi
+Kokkola,the-official-language,Finnish,P37,The official language of Kokkola is,The official language of Kokkola is Finnish,The official language of Kokkola is Romanian,Romanian
+Alexander Butlerov,mother-tongue,Russian,P37,The mother tongue of Alexander Butlerov is,The mother tongue of Alexander Butlerov is Russian,The mother tongue of Alexander Butlerov is Chinese,Chinese
+Isabelle Autissier,native,French,P37,The native language of Isabelle Autissier is,The native language of Isabelle Autissier is French,The native language of Isabelle Autissier is Greek,Greek
+Camorino,the-official-language,Italian,P37,The official language of Camorino is,The official language of Camorino is Italian,The official language of Camorino is Chinese,Chinese
+Mathieu de Montmorency,native,French,P37,The native language of Mathieu de Montmorency is,The native language of Mathieu de Montmorency is French,The native language of Mathieu de Montmorency is Russian,Russian
+Lutry,the-official-language,French,P37,The official language of Lutry is,The official language of Lutry is French,The official language of Lutry is German,German
+Newfoundland and Labrador,the-official-language,English,P37,The official language of Newfoundland and Labrador is,The official language of Newfoundland and Labrador is English,The official language of Newfoundland and Labrador is Turkish,Turkish
+Jean-Pierre Pernaut,mother-tongue,French,P37,The mother tongue of Jean-Pierre Pernaut is,The mother tongue of Jean-Pierre Pernaut is French,The mother tongue of Jean-Pierre Pernaut is Tamil,Tamil
+Mozambique,the-official-language,Portuguese,P37,The official language of Mozambique is,The official language of Mozambique is Portuguese,The official language of Mozambique is Dutch,Dutch
+Kaskinen,the-official-language,Finnish,P37,The official language of Kaskinen is,The official language of Kaskinen is Finnish,The official language of Kaskinen is Russian,Russian
+Peru,the-official-language,Spanish,P37,The official language of Peru is,The official language of Peru is Spanish,The official language of Peru is Finnish,Finnish
+Dmitry Puchkov,mother-tongue,Russian,P37,The mother tongue of Dmitry Puchkov is,The mother tongue of Dmitry Puchkov is Russian,The mother tongue of Dmitry Puchkov is Serbian,Serbian
+Michel Saint-Denis,mother-tongue,French,P37,The mother tongue of Michel Saint-Denis is,The mother tongue of Michel Saint-Denis is French,The mother tongue of Michel Saint-Denis is Romanian,Romanian
+Jean Petitot,mother-tongue,French,P37,The mother tongue of Jean Petitot is,The mother tongue of Jean Petitot is French,The mother tongue of Jean Petitot is Spanish,Spanish
+South Dakota,the-official-language,English,P37,The official language of South Dakota is,The official language of South Dakota is English,The official language of South Dakota is Italian,Italian
+Louis Joxe,native,French,P37,The native language of Louis Joxe is,The native language of Louis Joxe is French,The native language of Louis Joxe is Tamil,Tamil
+Utsjoki,the-official-language,Finnish,P37,The official language of Utsjoki is,The official language of Utsjoki is Finnish,The official language of Utsjoki is Indonesian,Indonesian
+Kentucky,the-official-language,English,P37,The official language of Kentucky is,The official language of Kentucky is English,The official language of Kentucky is Swedish,Swedish
+Georges Chamarat,mother-tongue,French,P37,The mother tongue of Georges Chamarat is,The mother tongue of Georges Chamarat is French,The mother tongue of Georges Chamarat is Russian,Russian
+Claude Rich,mother-tongue,French,P37,The mother tongue of Claude Rich is,The mother tongue of Claude Rich is French,The mother tongue of Claude Rich is Portuguese,Portuguese
+Jean Davy,native,French,P37,The native language of Jean Davy is,The native language of Jean Davy is French,The native language of Jean Davy is Armenian,Armenian
+Xavier Beauvois,mother-tongue,French,P37,The mother tongue of Xavier Beauvois is,The mother tongue of Xavier Beauvois is French,The mother tongue of Xavier Beauvois is Romanian,Romanian
+Jersey,the-official-language,English,P37,The official language of Jersey is,The official language of Jersey is English,The official language of Jersey is Indonesian,Indonesian
+Pierre Emmanuel,mother-tongue,French,P37,The mother tongue of Pierre Emmanuel is,The mother tongue of Pierre Emmanuel is French,The mother tongue of Pierre Emmanuel is Finnish,Finnish
+Viacheslav Belavkin,mother-tongue,Russian,P37,The mother tongue of Viacheslav Belavkin is,The mother tongue of Viacheslav Belavkin is Russian,The mother tongue of Viacheslav Belavkin is Korean,Korean
+Michel Vinaver,mother-tongue,French,P37,The mother tongue of Michel Vinaver is,The mother tongue of Michel Vinaver is French,The mother tongue of Michel Vinaver is Tamil,Tamil
+Lapinlahti,the-official-language,Finnish,P37,The official language of Lapinlahti is,The official language of Lapinlahti is Finnish,The official language of Lapinlahti is Bulgarian,Bulgarian
+Pierre Guyotat,mother-tongue,French,P37,The mother tongue of Pierre Guyotat is,The mother tongue of Pierre Guyotat is French,The mother tongue of Pierre Guyotat is Italian,Italian
+Carouge,the-official-language,French,P37,The official language of Carouge is,The official language of Carouge is French,The official language of Carouge is Romanian,Romanian
+Vladimir Vinogradov,mother-tongue,Russian,P37,The mother tongue of Vladimir Vinogradov is,The mother tongue of Vladimir Vinogradov is Russian,The mother tongue of Vladimir Vinogradov is Chinese,Chinese
+Georges Marchal,mother-tongue,French,P37,The mother tongue of Georges Marchal is,The mother tongue of Georges Marchal is French,The mother tongue of Georges Marchal is Finnish,Finnish
+Pierre-Alexandre-Laurent Forfait,mother-tongue,French,P37,The mother tongue of Pierre-Alexandre-Laurent Forfait is,The mother tongue of Pierre-Alexandre-Laurent Forfait is French,The mother tongue of Pierre-Alexandre-Laurent Forfait is Ukrainian,Ukrainian
+Nicolas Chamfort,mother-tongue,French,P37,The mother tongue of Nicolas Chamfort is,The mother tongue of Nicolas Chamfort is French,The mother tongue of Nicolas Chamfort is Russian,Russian
+Jean Rouaud,mother-tongue,French,P37,The mother tongue of Jean Rouaud is,The mother tongue of Jean Rouaud is French,The mother tongue of Jean Rouaud is Swedish,Swedish
+Canton of Jura,the-official-language,French,P37,The official language of Canton of Jura is,The official language of Canton of Jura is French,The official language of Canton of Jura is Portuguese,Portuguese
+Robert Jan van Pelt,mother-tongue,Dutch,P37,The mother tongue of Robert Jan van Pelt is,The mother tongue of Robert Jan van Pelt is Dutch,The mother tongue of Robert Jan van Pelt is Vietnamese,Vietnamese
+Nicaragua,the-official-language,Spanish,P37,The official language of Nicaragua is,The official language of Nicaragua is Spanish,The official language of Nicaragua is Indonesian,Indonesian
+Russians,mother-tongue,Russian,P37,The mother tongue of Russians is,The mother tongue of Russians is Russian,The mother tongue of Russians is Portuguese,Portuguese
+Jean-Claude Brisseau,mother-tongue,French,P37,The mother tongue of Jean-Claude Brisseau is,The mother tongue of Jean-Claude Brisseau is French,The mother tongue of Jean-Claude Brisseau is Turkish,Turkish
+Louis Dutens,mother-tongue,French,P37,The mother tongue of Louis Dutens is,The mother tongue of Louis Dutens is French,The mother tongue of Louis Dutens is Armenian,Armenian
+Armenia,the-official-language,Armenian,P37,The official language of Armenia is,The official language of Armenia is Armenian,The official language of Armenia is Korean,Korean
+Ivory Coast,the-official-language,French,P37,The official language of Ivory Coast is,The official language of Ivory Coast is French,The official language of Ivory Coast is Ukrainian,Ukrainian
+Alicante,the-official-language,Spanish,P37,The official language of Alicante is,The official language of Alicante is Spanish,The official language of Alicante is Finnish,Finnish
+Christian Jacq,mother-tongue,French,P37,The mother tongue of Christian Jacq is,The mother tongue of Christian Jacq is French,The mother tongue of Christian Jacq is Ukrainian,Ukrainian
+Sweden,the-official-language,Swedish,P37,The official language of Sweden is,The official language of Sweden is Swedish,The official language of Sweden is Hindi,Hindi
+Leo Tolstoy,mother-tongue,Russian,P37,The mother tongue of Leo Tolstoy is,The mother tongue of Leo Tolstoy is Russian,The mother tongue of Leo Tolstoy is Swedish,Swedish
+Pierre Brasseur,mother-tongue,French,P37,The mother tongue of Pierre Brasseur is,The mother tongue of Pierre Brasseur is French,The mother tongue of Pierre Brasseur is Greek,Greek
+Grigoris Lambrakis,native,Greek,P37,The native language of Grigoris Lambrakis is,The native language of Grigoris Lambrakis is Greek,The native language of Grigoris Lambrakis is Serbian,Serbian
+Chardonne,the-official-language,French,P37,The official language of Chardonne is,The official language of Chardonne is French,The official language of Chardonne is Russian,Russian
+French immersion,the-official-language,French,P37,The official language of French immersion is,The official language of French immersion is French,The official language of French immersion is Italian,Italian
+Vera Brezhneva,mother-tongue,Russian,P37,The mother tongue of Vera Brezhneva is,The mother tongue of Vera Brezhneva is Russian,The mother tongue of Vera Brezhneva is Vietnamese,Vietnamese
+Jean Marais,mother-tongue,French,P37,The mother tongue of Jean Marais is,The mother tongue of Jean Marais is French,The mother tongue of Jean Marais is Greek,Greek
+Odessa Oblast,the-official-language,Ukrainian,P37,The official language of Odessa Oblast is,The official language of Odessa Oblast is Ukrainian,The official language of Odessa Oblast is Czech,Czech
+Anna Kournikova,mother-tongue,Russian,P37,The mother tongue of Anna Kournikova is,The mother tongue of Anna Kournikova is Russian,The mother tongue of Anna Kournikova is Italian,Italian
+Georges Pompidou,mother-tongue,French,P37,The mother tongue of Georges Pompidou is,The mother tongue of Georges Pompidou is French,The mother tongue of Georges Pompidou is Dutch,Dutch
+Lee Chang-dong,native,Korean,P37,The native language of Lee Chang-dong is,The native language of Lee Chang-dong is Korean,The native language of Lee Chang-dong is Czech,Czech
+Mikhail Evstafiev,mother-tongue,Russian,P37,The mother tongue of Mikhail Evstafiev is,The mother tongue of Mikhail Evstafiev is Russian,The mother tongue of Mikhail Evstafiev is Dutch,Dutch
+Republic of Buryatia,the-official-language,Russian,P37,The official language of Republic of Buryatia is,The official language of Republic of Buryatia is Russian,The official language of Republic of Buryatia is Portuguese,Portuguese
+Pierre Lescure,mother-tongue,French,P37,The mother tongue of Pierre Lescure is,The mother tongue of Pierre Lescure is French,The mother tongue of Pierre Lescure is Portuguese,Portuguese
+San Marino,the-official-language,Italian,P37,The official language of San Marino is,The official language of San Marino is Italian,The official language of San Marino is Bulgarian,Bulgarian
+Chiasso,the-official-language,Italian,P37,The official language of Chiasso is,The official language of Chiasso is Italian,The official language of Chiasso is French,French
+Andrey Malakhov,mother-tongue,Russian,P37,The mother tongue of Andrey Malakhov is,The mother tongue of Andrey Malakhov is Russian,The mother tongue of Andrey Malakhov is Spanish,Spanish
+Suomenniemi,the-official-language,Finnish,P37,The official language of Suomenniemi is,The official language of Suomenniemi is Finnish,The official language of Suomenniemi is Ukrainian,Ukrainian
+Jean Giraudoux,mother-tongue,French,P37,The mother tongue of Jean Giraudoux is,The mother tongue of Jean Giraudoux is French,The mother tongue of Jean Giraudoux is Hindi,Hindi
+Yuri Knorozov,mother-tongue,Russian,P37,The mother tongue of Yuri Knorozov is,The mother tongue of Yuri Knorozov is Russian,The mother tongue of Yuri Knorozov is French,French
+Jean Piat,mother-tongue,French,P37,The mother tongue of Jean Piat is,The mother tongue of Jean Piat is French,The mother tongue of Jean Piat is Greek,Greek
+Claude-Joseph Dorat,mother-tongue,French,P37,The mother tongue of Claude-Joseph Dorat is,The mother tongue of Claude-Joseph Dorat is French,The mother tongue of Claude-Joseph Dorat is Finnish,Finnish
+Charlotte-Rose de Caumont de La Force,mother-tongue,French,P37,The mother tongue of Charlotte-Rose de Caumont de La Force is,The mother tongue of Charlotte-Rose de Caumont de La Force is French,The mother tongue of Charlotte-Rose de Caumont de La Force is Spanish,Spanish
+Netherlands,the-official-language,Dutch,P37,The official language of Netherlands is,The official language of Netherlands is Dutch,The official language of Netherlands is Hindi,Hindi
+Turkey,the-official-language,Turkish,P37,The official language of Turkey is,The official language of Turkey is Turkish,The official language of Turkey is Ukrainian,Ukrainian
+Nazi Germany,the-official-language,German,P37,The official language of Nazi Germany is,The official language of Nazi Germany is German,The official language of Nazi Germany is Portuguese,Portuguese
+Nathalie Baye,mother-tongue,French,P37,The mother tongue of Nathalie Baye is,The mother tongue of Nathalie Baye is French,The mother tongue of Nathalie Baye is Dutch,Dutch
+Jacques Dynam,mother-tongue,French,P37,The mother tongue of Jacques Dynam is,The mother tongue of Jacques Dynam is French,The mother tongue of Jacques Dynam is Czech,Czech
+Bulgaria,the-official-language,Bulgarian,P37,The official language of Bulgaria is,The official language of Bulgaria is Bulgarian,The official language of Bulgaria is English,English
+Jacques Cazotte,mother-tongue,French,P37,The mother tongue of Jacques Cazotte is,The mother tongue of Jacques Cazotte is French,The mother tongue of Jacques Cazotte is Armenian,Armenian
+Canada,the-official-language,English,P37,The official language of Canada is,The official language of Canada is English,The official language of Canada is German,German
+Mistretta,the-official-language,Italian,P37,The official language of Mistretta is,The official language of Mistretta is Italian,The official language of Mistretta is Chinese,Chinese
+Canton of Vaud,the-official-language,French,P37,The official language of Canton of Vaud is,The official language of Canton of Vaud is French,The official language of Canton of Vaud is Hindi,Hindi
+Emmanuel Macron,mother-tongue,French,P37,The mother tongue of Emmanuel Macron is,The mother tongue of Emmanuel Macron is French,The mother tongue of Emmanuel Macron is Italian,Italian
+Barbados,the-official-language,English,P37,The official language of Barbados is,The official language of Barbados is English,The official language of Barbados is Tamil,Tamil
+Eugene Kaspersky,mother-tongue,Russian,P37,The mother tongue of Eugene Kaspersky is,The mother tongue of Eugene Kaspersky is Russian,The mother tongue of Eugene Kaspersky is German,German
+Evert Willem Beth,mother-tongue,Dutch,P37,The mother tongue of Evert Willem Beth is,The mother tongue of Evert Willem Beth is Dutch,The mother tongue of Evert Willem Beth is Swedish,Swedish
+Ilya Nikolaevich Ulyanov,mother-tongue,Russian,P37,The mother tongue of Ilya Nikolaevich Ulyanov is,The mother tongue of Ilya Nikolaevich Ulyanov is Russian,The mother tongue of Ilya Nikolaevich Ulyanov is Serbian,Serbian
+Armand Trousseau,native,French,P37,The native language of Armand Trousseau is,The native language of Armand Trousseau is French,The native language of Armand Trousseau is Vietnamese,Vietnamese
+Samuel Benchetrit,native,French,P37,The native language of Samuel Benchetrit is,The native language of Samuel Benchetrit is French,The native language of Samuel Benchetrit is Romanian,Romanian
+Jean Debucourt,mother-tongue,French,P37,The mother tongue of Jean Debucourt is,The mother tongue of Jean Debucourt is French,The mother tongue of Jean Debucourt is Spanish,Spanish
+Annick Alane,mother-tongue,French,P37,The mother tongue of Annick Alane is,The mother tongue of Annick Alane is French,The mother tongue of Annick Alane is Italian,Italian
+Jules Roy,mother-tongue,French,P37,The mother tongue of Jules Roy is,The mother tongue of Jules Roy is French,The mother tongue of Jules Roy is Finnish,Finnish
+Wang Shu,mother-tongue,Chinese,P37,The mother tongue of Wang Shu is,The mother tongue of Wang Shu is Chinese,The mother tongue of Wang Shu is Vietnamese,Vietnamese
+Auguste Villiers de l'Isle-Adam,mother-tongue,French,P37,The mother tongue of Auguste Villiers de l'Isle-Adam is,The mother tongue of Auguste Villiers de l'Isle-Adam is French,The mother tongue of Auguste Villiers de l'Isle-Adam is Spanish,Spanish
+Australia,the-official-language,English,P37,The official language of Australia is,The official language of Australia is English,The official language of Australia is Romanian,Romanian
+Isabelle Nanty,mother-tongue,French,P37,The mother tongue of Isabelle Nanty is,The mother tongue of Isabelle Nanty is French,The mother tongue of Isabelle Nanty is Portuguese,Portuguese
+Andreas Karkavitsas,mother-tongue,Greek,P37,The mother tongue of Andreas Karkavitsas is,The mother tongue of Andreas Karkavitsas is Greek,The mother tongue of Andreas Karkavitsas is Serbian,Serbian
+Michel d'Ornano,mother-tongue,French,P37,The mother tongue of Michel d'Ornano is,The mother tongue of Michel d'Ornano is French,The mother tongue of Michel d'Ornano is Finnish,Finnish
+Lev Kulidzhanov,mother-tongue,Russian,P37,The mother tongue of Lev Kulidzhanov is,The mother tongue of Lev Kulidzhanov is Russian,The mother tongue of Lev Kulidzhanov is French,French
+Lappeenranta,the-official-language,Finnish,P37,The official language of Lappeenranta is,The official language of Lappeenranta is Finnish,The official language of Lappeenranta is Serbian,Serbian
+Pierre Bayle,mother-tongue,French,P37,The mother tongue of Pierre Bayle is,The mother tongue of Pierre Bayle is French,The mother tongue of Pierre Bayle is Hindi,Hindi
+Sint Maarten,the-official-language,Dutch,P37,The official language of Sint Maarten is,The official language of Sint Maarten is Dutch,The official language of Sint Maarten is Hindi,Hindi
+Jean-Luc Marion,mother-tongue,French,P37,The mother tongue of Jean-Luc Marion is,The mother tongue of Jean-Luc Marion is French,The mother tongue of Jean-Luc Marion is Dutch,Dutch
+Catherine Deneuve,mother-tongue,French,P37,The mother tongue of Catherine Deneuve is,The mother tongue of Catherine Deneuve is French,The mother tongue of Catherine Deneuve is Hindi,Hindi
+Bali,the-official-language,Indonesian,P37,The official language of Bali is,The official language of Bali is Indonesian,The official language of Bali is Portuguese,Portuguese
+Pascale Ogier,mother-tongue,French,P37,The mother tongue of Pascale Ogier is,The mother tongue of Pascale Ogier is French,The mother tongue of Pascale Ogier is English,English
+Jean Lefebvre,mother-tongue,French,P37,The mother tongue of Jean Lefebvre is,The mother tongue of Jean Lefebvre is French,The mother tongue of Jean Lefebvre is Russian,Russian
+Yverdon-les-Bains,the-official-language,French,P37,The official language of Yverdon-les-Bains is,The official language of Yverdon-les-Bains is French,The official language of Yverdon-les-Bains is Italian,Italian
+Jean-Bernard Raimond,mother-tongue,French,P37,The mother tongue of Jean-Bernard Raimond is,The mother tongue of Jean-Bernard Raimond is French,The mother tongue of Jean-Bernard Raimond is Armenian,Armenian
+Gustave de Beaumont,mother-tongue,French,P37,The mother tongue of Gustave de Beaumont is,The mother tongue of Gustave de Beaumont is French,The mother tongue of Gustave de Beaumont is Tamil,Tamil
+Arvidsjaur Municipality,the-official-language,Swedish,P37,The official language of Arvidsjaur Municipality is,The official language of Arvidsjaur Municipality is Swedish,The official language of Arvidsjaur Municipality is Portuguese,Portuguese
+Republic of Mordovia,the-official-language,Russian,P37,The official language of Republic of Mordovia is,The official language of Republic of Mordovia is Russian,The official language of Republic of Mordovia is Czech,Czech
+Adolphe Pinard,mother-tongue,French,P37,The mother tongue of Adolphe Pinard is,The mother tongue of Adolphe Pinard is French,The mother tongue of Adolphe Pinard is Tamil,Tamil
+Xavier de Maistre,mother-tongue,French,P37,The mother tongue of Xavier de Maistre is,The mother tongue of Xavier de Maistre is French,The mother tongue of Xavier de Maistre is English,English
+Ruokolahti,the-official-language,Finnish,P37,The official language of Ruokolahti is,The official language of Ruokolahti is Finnish,The official language of Ruokolahti is Romanian,Romanian
+Jacques Dupin,mother-tongue,French,P37,The mother tongue of Jacques Dupin is,The mother tongue of Jacques Dupin is French,The mother tongue of Jacques Dupin is Finnish,Finnish
+Flemish Region,the-official-language,Dutch,P37,The official language of Flemish Region is,The official language of Flemish Region is Dutch,The official language of Flemish Region is Swedish,Swedish
+Caribbean Netherlands,the-official-language,Dutch,P37,The official language of Caribbean Netherlands is,The official language of Caribbean Netherlands is Dutch,The official language of Caribbean Netherlands is Hindi,Hindi
+Quebec,the-official-language,French,P37,The official language of Quebec is,The official language of Quebec is French,The official language of Quebec is Vietnamese,Vietnamese
+Sakha Republic,the-official-language,Russian,P37,The official language of Sakha Republic is,The official language of Sakha Republic is Russian,The official language of Sakha Republic is Swedish,Swedish
+Louis Barthou,native,French,P37,The native language of Louis Barthou is,The native language of Louis Barthou is French,The native language of Louis Barthou is German,German
+Tolyatti,the-official-language,Russian,P37,The official language of Tolyatti is,The official language of Tolyatti is Russian,The official language of Tolyatti is Finnish,Finnish
+Jean Baptiste Antoine Auget de Montyon,mother-tongue,French,P37,The mother tongue of Jean Baptiste Antoine Auget de Montyon is,The mother tongue of Jean Baptiste Antoine Auget de Montyon is French,The mother tongue of Jean Baptiste Antoine Auget de Montyon is Hindi,Hindi
+canton of Bern,the-official-language,German,P37,The official language of canton of Bern is,The official language of canton of Bern is German,The official language of canton of Bern is Korean,Korean
+Vacallo,the-official-language,Italian,P37,The official language of Vacallo is,The official language of Vacallo is Italian,The official language of Vacallo is English,English
+Vietnam,the-official-language,Vietnamese,P37,The official language of Vietnam is,The official language of Vietnam is Vietnamese,The official language of Vietnam is English,English
+Spain,the-official-language,Spanish,P37,The official language of Spain is,The official language of Spain is Spanish,The official language of Spain is Romanian,Romanian
+Jacques Legras,mother-tongue,French,P37,The mother tongue of Jacques Legras is,The mother tongue of Jacques Legras is French,The mother tongue of Jacques Legras is Dutch,Dutch
+Dmitry Rybolovlev,mother-tongue,Russian,P37,The mother tongue of Dmitry Rybolovlev is,The mother tongue of Dmitry Rybolovlev is Russian,The mother tongue of Dmitry Rybolovlev is Turkish,Turkish
+Imanol Arias,mother-tongue,Spanish,P37,The mother tongue of Imanol Arias is,The mother tongue of Imanol Arias is Spanish,The mother tongue of Imanol Arias is Chinese,Chinese
+Olga Medvedtseva,mother-tongue,Russian,P37,The mother tongue of Olga Medvedtseva is,The mother tongue of Olga Medvedtseva is Russian,The mother tongue of Olga Medvedtseva is Chinese,Chinese
+Albert Sarraut,mother-tongue,French,P37,The mother tongue of Albert Sarraut is,The mother tongue of Albert Sarraut is French,The mother tongue of Albert Sarraut is Indonesian,Indonesian
+Coimbatore,the-official-language,Tamil,P37,The official language of Coimbatore is,The official language of Coimbatore is Tamil,The official language of Coimbatore is French,French
+Marie Glory,mother-tongue,French,P37,The mother tongue of Marie Glory is,The mother tongue of Marie Glory is French,The mother tongue of Marie Glory is Hindi,Hindi
+Franz Kafka,mother-tongue,German,P37,The mother tongue of Franz Kafka is,The mother tongue of Franz Kafka is German,The mother tongue of Franz Kafka is French,French
+Roger Duchesne,mother-tongue,French,P37,The mother tongue of Roger Duchesne is,The mother tongue of Roger Duchesne is French,The mother tongue of Roger Duchesne is Spanish,Spanish
+Czechoslovakia,the-official-language,Czech,P37,The official language of Czechoslovakia is,The official language of Czechoslovakia is Czech,The official language of Czechoslovakia is Swedish,Swedish
+William Henry Harrison,mother-tongue,English,P37,The mother tongue of William Henry Harrison is,The mother tongue of William Henry Harrison is English,The mother tongue of William Henry Harrison is Spanish,Spanish
+Jules Barbier,mother-tongue,French,P37,The mother tongue of Jules Barbier is,The mother tongue of Jules Barbier is French,The mother tongue of Jules Barbier is Ukrainian,Ukrainian
+Octave Uzanne,native,French,P37,The native language of Octave Uzanne is,The native language of Octave Uzanne is French,The native language of Octave Uzanne is Swedish,Swedish
+Ivan Puni,mother-tongue,Russian,P37,The mother tongue of Ivan Puni is,The mother tongue of Ivan Puni is Russian,The mother tongue of Ivan Puni is Dutch,Dutch
+Northwest Territories,the-official-language,English,P37,The official language of Northwest Territories is,The official language of Northwest Territories is English,The official language of Northwest Territories is French,French
+Henry de Montherlant,mother-tongue,French,P37,The mother tongue of Henry de Montherlant is,The mother tongue of Henry de Montherlant is French,The mother tongue of Henry de Montherlant is Portuguese,Portuguese
+Jharkhand,the-official-language,Hindi,P37,The official language of Jharkhand is,The official language of Jharkhand is Hindi,The official language of Jharkhand is Serbian,Serbian
+Virolahti,the-official-language,Finnish,P37,The official language of Virolahti is,The official language of Virolahti is Finnish,The official language of Virolahti is Vietnamese,Vietnamese
+Maurice Faure,mother-tongue,French,P37,The mother tongue of Maurice Faure is,The mother tongue of Maurice Faure is French,The mother tongue of Maurice Faure is Indonesian,Indonesian
+Dominique Bouhours,mother-tongue,French,P37,The mother tongue of Dominique Bouhours is,The mother tongue of Dominique Bouhours is French,The mother tongue of Dominique Bouhours is Armenian,Armenian
+Uusikaupunki,the-official-language,Finnish,P37,The official language of Uusikaupunki is,The official language of Uusikaupunki is Finnish,The official language of Uusikaupunki is Italian,Italian
+Ilmajoki,the-official-language,Finnish,P37,The official language of Ilmajoki is,The official language of Ilmajoki is Finnish,The official language of Ilmajoki is Armenian,Armenian
+Antonietta Di Martino,mother-tongue,Italian,P37,The mother tongue of Antonietta Di Martino is,The mother tongue of Antonietta Di Martino is Italian,The mother tongue of Antonietta Di Martino is Russian,Russian
+Bernard Giraudeau,mother-tongue,French,P37,The mother tongue of Bernard Giraudeau is,The mother tongue of Bernard Giraudeau is French,The mother tongue of Bernard Giraudeau is Romanian,Romanian
+Chennai,the-official-language,Tamil,P37,The official language of Chennai is,The official language of Chennai is Tamil,The official language of Chennai is Czech,Czech
+Serbian Orthodox Church,the-official-language,Serbian,P37,The official language of Serbian Orthodox Church is,The official language of Serbian Orthodox Church is Serbian,The official language of Serbian Orthodox Church is Bulgarian,Bulgarian
+Shi Yongxin,mother-tongue,Chinese,P37,The mother tongue of Shi Yongxin is,The mother tongue of Shi Yongxin is Chinese,The mother tongue of Shi Yongxin is Italian,Italian
+Maurice Bucaille,native,French,P37,The native language of Maurice Bucaille is,The native language of Maurice Bucaille is French,The native language of Maurice Bucaille is Vietnamese,Vietnamese
+Charles-Joseph Panckoucke,native,French,P37,The native language of Charles-Joseph Panckoucke is,The native language of Charles-Joseph Panckoucke is French,The native language of Charles-Joseph Panckoucke is Romanian,Romanian
+Oulu,the-official-language,Finnish,P37,The official language of Oulu is,The official language of Oulu is Finnish,The official language of Oulu is Portuguese,Portuguese
+Jean-Marie Pardessus,mother-tongue,French,P37,The mother tongue of Jean-Marie Pardessus is,The mother tongue of Jean-Marie Pardessus is French,The mother tongue of Jean-Marie Pardessus is Portuguese,Portuguese
+Georgy Shpagin,mother-tongue,Russian,P37,The mother tongue of Georgy Shpagin is,The mother tongue of Georgy Shpagin is Russian,The mother tongue of Georgy Shpagin is Portuguese,Portuguese
+Jokioinen,the-official-language,Finnish,P37,The official language of Jokioinen is,The official language of Jokioinen is Finnish,The official language of Jokioinen is Bulgarian,Bulgarian
+Jacques Jouanneau,mother-tongue,French,P37,The mother tongue of Jacques Jouanneau is,The mother tongue of Jacques Jouanneau is French,The mother tongue of Jacques Jouanneau is German,German
+Robert Garnier,mother-tongue,French,P37,The mother tongue of Robert Garnier is,The mother tongue of Robert Garnier is French,The mother tongue of Robert Garnier is Serbian,Serbian
+Alfred Savoir,mother-tongue,French,P37,The mother tongue of Alfred Savoir is,The mother tongue of Alfred Savoir is French,The mother tongue of Alfred Savoir is Finnish,Finnish
+Yevgeny Yevtushenko,mother-tongue,Russian,P37,The mother tongue of Yevgeny Yevtushenko is,The mother tongue of Yevgeny Yevtushenko is Russian,The mother tongue of Yevgeny Yevtushenko is Dutch,Dutch
+Karlskoga Municipality,the-official-language,Swedish,P37,The official language of Karlskoga Municipality is,The official language of Karlskoga Municipality is Swedish,The official language of Karlskoga Municipality is Spanish,Spanish
+Pierre Brice,mother-tongue,French,P37,The mother tongue of Pierre Brice is,The mother tongue of Pierre Brice is French,The mother tongue of Pierre Brice is Italian,Italian
+Ukraine,the-official-language,Ukrainian,P37,The official language of Ukraine is,The official language of Ukraine is Ukrainian,The official language of Ukraine is French,French
+Oklahoma,the-official-language,English,P37,The official language of Oklahoma is,The official language of Oklahoma is English,The official language of Oklahoma is Russian,Russian
+Lionel Jospin,mother-tongue,French,P37,The mother tongue of Lionel Jospin is,The mother tongue of Lionel Jospin is French,The mother tongue of Lionel Jospin is Hindi,Hindi
+Michel Aumont,mother-tongue,French,P37,The mother tongue of Michel Aumont is,The mother tongue of Michel Aumont is French,The mother tongue of Michel Aumont is Russian,Russian
+Raymond Queneau,native,French,P37,The native language of Raymond Queneau is,The native language of Raymond Queneau is French,The native language of Raymond Queneau is Romanian,Romanian
+Republic of Karelia,the-official-language,Russian,P37,The official language of Republic of Karelia is,The official language of Republic of Karelia is Russian,The official language of Republic of Karelia is Ukrainian,Ukrainian
+Yalta,the-official-language,Russian,P37,The official language of Yalta is,The official language of Yalta is Russian,The official language of Yalta is Romanian,Romanian
+Czech Republic,the-official-language,Czech,P37,The official language of Czech Republic is,The official language of Czech Republic is Czech,The official language of Czech Republic is Turkish,Turkish
+Louis-Jean-Marie Daubenton,mother-tongue,French,P37,The mother tongue of Louis-Jean-Marie Daubenton is,The mother tongue of Louis-Jean-Marie Daubenton is French,The mother tongue of Louis-Jean-Marie Daubenton is Dutch,Dutch
+Marie NDiaye,mother-tongue,French,P37,The mother tongue of Marie NDiaye is,The mother tongue of Marie NDiaye is French,The mother tongue of Marie NDiaye is Serbian,Serbian
+Canary Islands,the-official-language,Spanish,P37,The official language of Canary Islands is,The official language of Canary Islands is Spanish,The official language of Canary Islands is Ukrainian,Ukrainian
+Cees Nooteboom,mother-tongue,Dutch,P37,The mother tongue of Cees Nooteboom is,The mother tongue of Cees Nooteboom is Dutch,The mother tongue of Cees Nooteboom is Portuguese,Portuguese
+Isabelle Breitman,native,French,P37,The native language of Isabelle Breitman is,The native language of Isabelle Breitman is French,The native language of Isabelle Breitman is Portuguese,Portuguese
+Dominique Joseph Garat,mother-tongue,French,P37,The mother tongue of Dominique Joseph Garat is,The mother tongue of Dominique Joseph Garat is French,The mother tongue of Dominique Joseph Garat is Portuguese,Portuguese
+Luc Besson,mother-tongue,French,P37,The mother tongue of Luc Besson is,The mother tongue of Luc Besson is French,The mother tongue of Luc Besson is Vietnamese,Vietnamese
+Romania,the-official-language,Romanian,P37,The official language of Romania is,The official language of Romania is Romanian,The official language of Romania is French,French
+Jean Lacouture,mother-tongue,French,P37,The mother tongue of Jean Lacouture is,The mother tongue of Jean Lacouture is French,The mother tongue of Jean Lacouture is Finnish,Finnish
+Aceh,the-official-language,Indonesian,P37,The official language of Aceh is,The official language of Aceh is Indonesian,The official language of Aceh is Czech,Czech
+Christine Albanel,mother-tongue,French,P37,The mother tongue of Christine Albanel is,The mother tongue of Christine Albanel is French,The mother tongue of Christine Albanel is Indonesian,Indonesian
+Finland,the-official-language,Finnish,P37,The official language of Finland is,The official language of Finland is Finnish,The official language of Finland is German,German
+Jean-Pierre Andrevon,mother-tongue,French,P37,The mother tongue of Jean-Pierre Andrevon is,The mother tongue of Jean-Pierre Andrevon is French,The mother tongue of Jean-Pierre Andrevon is Swedish,Swedish
+Eurajoki,the-official-language,Finnish,P37,The official language of Eurajoki is,The official language of Eurajoki is Finnish,The official language of Eurajoki is Czech,Czech
+David Beckham,mother-tongue,English,P37,The mother tongue of David Beckham is,The mother tongue of David Beckham is English,The mother tongue of David Beckham is Dutch,Dutch
+Anastasia Myskina,mother-tongue,Russian,P37,The mother tongue of Anastasia Myskina is,The mother tongue of Anastasia Myskina is Russian,The mother tongue of Anastasia Myskina is Swedish,Swedish
+Henri Decoin,native,French,P37,The native language of Henri Decoin is,The native language of Henri Decoin is French,The native language of Henri Decoin is Ukrainian,Ukrainian
+Claude Gensac,mother-tongue,French,P37,The mother tongue of Claude Gensac is,The mother tongue of Claude Gensac is French,The mother tongue of Claude Gensac is English,English
+Boris Asafyev,native,Russian,P37,The native language of Boris Asafyev is,The native language of Boris Asafyev is Russian,The native language of Boris Asafyev is Ukrainian,Ukrainian
+Louis Darquier de Pellepoix,mother-tongue,French,P37,The mother tongue of Louis Darquier de Pellepoix is,The mother tongue of Louis Darquier de Pellepoix is French,The mother tongue of Louis Darquier de Pellepoix is Finnish,Finnish
+Maximilian Voloshin,mother-tongue,Russian,P37,The mother tongue of Maximilian Voloshin is,The mother tongue of Maximilian Voloshin is Russian,The mother tongue of Maximilian Voloshin is Serbian,Serbian
+Denis Robert,mother-tongue,French,P37,The mother tongue of Denis Robert is,The mother tongue of Denis Robert is French,The mother tongue of Denis Robert is English,English
+Falkland Islands,the-official-language,English,P37,The official language of Falkland Islands is,The official language of Falkland Islands is English,The official language of Falkland Islands is Italian,Italian
+National Film Board of Canada,the-official-language,French,P37,The official language of National Film Board of Canada is,The official language of National Film Board of Canada is French,The official language of National Film Board of Canada is Indonesian,Indonesian
+Bhopal,the-official-language,Hindi,P37,The official language of Bhopal is,The official language of Bhopal is Hindi,The official language of Bhopal is Romanian,Romanian
+United Kingdom,the-official-language,English,P37,The official language of United Kingdom is,The official language of United Kingdom is English,The official language of United Kingdom is Romanian,Romanian
+Corinne Calvet,mother-tongue,French,P37,The mother tongue of Corinne Calvet is,The mother tongue of Corinne Calvet is French,The mother tongue of Corinne Calvet is Bulgarian,Bulgarian
+Ticino,the-official-language,Italian,P37,The official language of Ticino is,The official language of Ticino is Italian,The official language of Ticino is Portuguese,Portuguese
+Jean-Claude Brialy,mother-tongue,French,P37,The mother tongue of Jean-Claude Brialy is,The mother tongue of Jean-Claude Brialy is French,The mother tongue of Jean-Claude Brialy is Russian,Russian
+Maurice Clavel,mother-tongue,French,P37,The mother tongue of Maurice Clavel is,The mother tongue of Maurice Clavel is French,The mother tongue of Maurice Clavel is English,English
+Jean-Antoine Roucher,mother-tongue,French,P37,The mother tongue of Jean-Antoine Roucher is,The mother tongue of Jean-Antoine Roucher is French,The mother tongue of Jean-Antoine Roucher is Czech,Czech
+Chad,the-official-language,French,P37,The official language of Chad is,The official language of Chad is French,The official language of Chad is Korean,Korean
+Sundsvall Municipality,the-official-language,Swedish,P37,The official language of Sundsvall Municipality is,The official language of Sundsvall Municipality is Swedish,The official language of Sundsvall Municipality is Spanish,Spanish
+"Jean-Baptiste de Boyer, Marquis d'Argens",mother-tongue,French,P37,"The mother tongue of Jean-Baptiste de Boyer, Marquis d'Argens is","The mother tongue of Jean-Baptiste de Boyer, Marquis d'Argens is French","The mother tongue of Jean-Baptiste de Boyer, Marquis d'Argens is English",English
+Viitasaari,the-official-language,Finnish,P37,The official language of Viitasaari is,The official language of Viitasaari is Finnish,The official language of Viitasaari is Russian,Russian
+Russia,the-official-language,Russian,P37,The official language of Russia is,The official language of Russia is Russian,The official language of Russia is Ukrainian,Ukrainian
+Pierre-Joseph Cambon,mother-tongue,French,P37,The mother tongue of Pierre-Joseph Cambon is,The mother tongue of Pierre-Joseph Cambon is French,The mother tongue of Pierre-Joseph Cambon is Korean,Korean
+Cameroon,the-official-language,French,P37,The official language of Cameroon is,The official language of Cameroon is French,The official language of Cameroon is Hindi,Hindi
+Riiser-Larsen Ice Shelf,belong-to-continent,Antarctica,P30,Riiser-Larsen Ice Shelf belongs to the continent of,Riiser-Larsen Ice Shelf belongs to the continent of Antarctica,Riiser-Larsen Ice Shelf belongs to the continent of Asia,Asia
+Matusevich Glacier,part-of-continent,Antarctica,P30,Matusevich Glacier is a part of the continent of,Matusevich Glacier is a part of the continent of Antarctica,Matusevich Glacier is a part of the continent of Europe,Europe
+Germany,part-of-continent,Europe,P30,Germany is a part of the continent of,Germany is a part of the continent of Europe,Germany is a part of the continent of Antarctica,Antarctica
+Lake Baikal,belong-to-continent,Asia,P30,Lake Baikal belongs to the continent of,Lake Baikal belongs to the continent of Asia,Lake Baikal belongs to the continent of Antarctica,Antarctica
+Yugoslavia,part-of-continent,Europe,P30,Yugoslavia is a part of the continent of,Yugoslavia is a part of the continent of Europe,Yugoslavia is a part of the continent of Antarctica,Antarctica
+Swedish Empire,belong-to-continent,Europe,P30,Swedish Empire belongs to the continent of,Swedish Empire belongs to the continent of Europe,Swedish Empire belongs to the continent of Africa,Africa
+Tiruvannamalai district,belong-to-continent,Asia,P30,Tiruvannamalai district belongs to the continent of,Tiruvannamalai district belongs to the continent of Asia,Tiruvannamalai district belongs to the continent of Europe,Europe
+Slovakia,part-of-continent,Europe,P30,Slovakia is a part of the continent of,Slovakia is a part of the continent of Europe,Slovakia is a part of the continent of Africa,Africa
+Berkovitsa Glacier,part-of-continent,Antarctica,P30,Berkovitsa Glacier is a part of the continent of,Berkovitsa Glacier is a part of the continent of Antarctica,Berkovitsa Glacier is a part of the continent of Europe,Europe
+Rennick Glacier,part-of-continent,Antarctica,P30,Rennick Glacier is a part of the continent of,Rennick Glacier is a part of the continent of Antarctica,Rennick Glacier is a part of the continent of Europe,Europe
+Egypt,part-of-continent,Africa,P30,Egypt is a part of the continent of,Egypt is a part of the continent of Africa,Egypt is a part of the continent of Asia,Asia
+Green Glacier,part-of-continent,Antarctica,P30,Green Glacier is a part of the continent of,Green Glacier is a part of the continent of Antarctica,Green Glacier is a part of the continent of Europe,Europe
+Beaglehole Glacier,part-of-continent,Antarctica,P30,Beaglehole Glacier is a part of the continent of,Beaglehole Glacier is a part of the continent of Antarctica,Beaglehole Glacier is a part of the continent of Asia,Asia
+South Korea,part-of-continent,Asia,P30,South Korea is a part of the continent of,South Korea is a part of the continent of Asia,South Korea is a part of the continent of Africa,Africa
+Helsinki,belong-to-continent,Europe,P30,Helsinki belongs to the continent of,Helsinki belongs to the continent of Europe,Helsinki belongs to the continent of Antarctica,Antarctica
+Deep Freeze Range,part-of-continent,Antarctica,P30,Deep Freeze Range is a part of the continent of,Deep Freeze Range is a part of the continent of Antarctica,Deep Freeze Range is a part of the continent of Europe,Europe
+Benin,part-of-continent,Africa,P30,Benin is a part of the continent of,Benin is a part of the continent of Africa,Benin is a part of the continent of Antarctica,Antarctica
+Lambert Glacier,part-of-continent,Antarctica,P30,Lambert Glacier is a part of the continent of,Lambert Glacier is a part of the continent of Antarctica,Lambert Glacier is a part of the continent of Asia,Asia
+Shinnan Glacier,part-of-continent,Antarctica,P30,Shinnan Glacier is a part of the continent of,Shinnan Glacier is a part of the continent of Antarctica,Shinnan Glacier is a part of the continent of Africa,Africa
+Gordon Glacier,part-of-continent,Antarctica,P30,Gordon Glacier is a part of the continent of,Gordon Glacier is a part of the continent of Antarctica,Gordon Glacier is a part of the continent of Africa,Africa
+Rhine,belong-to-continent,Europe,P30,Rhine belongs to the continent of,Rhine belongs to the continent of Europe,Rhine belongs to the continent of Antarctica,Antarctica
+Murphy Glacier,part-of-continent,Antarctica,P30,Murphy Glacier is a part of the continent of,Murphy Glacier is a part of the continent of Antarctica,Murphy Glacier is a part of the continent of Asia,Asia
+Denmark,part-of-continent,Europe,P30,Denmark is a part of the continent of,Denmark is a part of the continent of Europe,Denmark is a part of the continent of Asia,Asia
+Hood Glacier,part-of-continent,Antarctica,P30,Hood Glacier is a part of the continent of,Hood Glacier is a part of the continent of Antarctica,Hood Glacier is a part of the continent of Africa,Africa
+Nigeria,part-of-continent,Africa,P30,Nigeria is a part of the continent of,Nigeria is a part of the continent of Africa,Nigeria is a part of the continent of Antarctica,Antarctica
+Basel,belong-to-continent,Europe,P30,Basel belongs to the continent of,Basel belongs to the continent of Europe,Basel belongs to the continent of Antarctica,Antarctica
+McMurdo Station,part-of-continent,Antarctica,P30,McMurdo Station is a part of the continent of,McMurdo Station is a part of the continent of Antarctica,McMurdo Station is a part of the continent of Asia,Asia
+Kingdom of the Netherlands,belong-to-continent,Europe,P30,Kingdom of the Netherlands belongs to the continent of,Kingdom of the Netherlands belongs to the continent of Europe,Kingdom of the Netherlands belongs to the continent of Asia,Asia
+Mapple Glacier,part-of-continent,Antarctica,P30,Mapple Glacier is a part of the continent of,Mapple Glacier is a part of the continent of Antarctica,Mapple Glacier is a part of the continent of Asia,Asia
+Athens,belong-to-continent,Europe,P30,Athens belongs to the continent of,Athens belongs to the continent of Europe,Athens belongs to the continent of Africa,Africa
+Gerlache Strait,part-of-continent,Antarctica,P30,Gerlache Strait is a part of the continent of,Gerlache Strait is a part of the continent of Antarctica,Gerlache Strait is a part of the continent of Europe,Europe
+Shahdol district,belong-to-continent,Asia,P30,Shahdol district belongs to the continent of,Shahdol district belongs to the continent of Asia,Shahdol district belongs to the continent of Antarctica,Antarctica
+Gdynia,belong-to-continent,Europe,P30,Gdynia belongs to the continent of,Gdynia belongs to the continent of Europe,Gdynia belongs to the continent of Antarctica,Antarctica
+Balleny Islands,belong-to-continent,Antarctica,P30,Balleny Islands belongs to the continent of,Balleny Islands belongs to the continent of Antarctica,Balleny Islands belongs to the continent of Asia,Asia
+Hinkley Glacier,part-of-continent,Antarctica,P30,Hinkley Glacier is a part of the continent of,Hinkley Glacier is a part of the continent of Antarctica,Hinkley Glacier is a part of the continent of Asia,Asia
+Juan Carlos I Antarctic Base,part-of-continent,Antarctica,P30,Juan Carlos I Antarctic Base is a part of the continent of,Juan Carlos I Antarctic Base is a part of the continent of Antarctica,Juan Carlos I Antarctic Base is a part of the continent of Europe,Europe
+Nepal,belong-to-continent,Asia,P30,Nepal belongs to the continent of,Nepal belongs to the continent of Asia,Nepal belongs to the continent of Europe,Europe
+Eastern Bloc,part-of-continent,Europe,P30,Eastern Bloc is a part of the continent of,Eastern Bloc is a part of the continent of Europe,Eastern Bloc is a part of the continent of Asia,Asia
+Bani River,belong-to-continent,Africa,P30,Bani River belongs to the continent of,Bani River belongs to the continent of Africa,Bani River belongs to the continent of Antarctica,Antarctica
+Blaiklock Glacier,part-of-continent,Antarctica,P30,Blaiklock Glacier is a part of the continent of,Blaiklock Glacier is a part of the continent of Antarctica,Blaiklock Glacier is a part of the continent of Africa,Africa
+Melchior Islands,belong-to-continent,Antarctica,P30,Melchior Islands belongs to the continent of,Melchior Islands belongs to the continent of Antarctica,Melchior Islands belongs to the continent of Europe,Europe
+Scotland,part-of-continent,Europe,P30,Scotland is a part of the continent of,Scotland is a part of the continent of Europe,Scotland is a part of the continent of Africa,Africa
+Mariner Glacier,part-of-continent,Antarctica,P30,Mariner Glacier is a part of the continent of,Mariner Glacier is a part of the continent of Antarctica,Mariner Glacier is a part of the continent of Africa,Africa
+East Francia,belong-to-continent,Europe,P30,East Francia belongs to the continent of,East Francia belongs to the continent of Europe,East Francia belongs to the continent of Asia,Asia
+Chad Basin,part-of-continent,Africa,P30,Chad Basin is a part of the continent of,Chad Basin is a part of the continent of Africa,Chad Basin is a part of the continent of Asia,Asia
+Bern,belong-to-continent,Europe,P30,Bern belongs to the continent of,Bern belongs to the continent of Europe,Bern belongs to the continent of Antarctica,Antarctica
+Mount Cameroon,part-of-continent,Africa,P30,Mount Cameroon is a part of the continent of,Mount Cameroon is a part of the continent of Africa,Mount Cameroon is a part of the continent of Europe,Europe
+Crevasse Valley Glacier,part-of-continent,Antarctica,P30,Crevasse Valley Glacier is a part of the continent of,Crevasse Valley Glacier is a part of the continent of Antarctica,Crevasse Valley Glacier is a part of the continent of Africa,Africa
+Dufek Massif,part-of-continent,Antarctica,P30,Dufek Massif is a part of the continent of,Dufek Massif is a part of the continent of Antarctica,Dufek Massif is a part of the continent of Europe,Europe
+Pequod Glacier,part-of-continent,Antarctica,P30,Pequod Glacier is a part of the continent of,Pequod Glacier is a part of the continent of Antarctica,Pequod Glacier is a part of the continent of Europe,Europe
+Malaysia,belong-to-continent,Asia,P30,Malaysia belongs to the continent of,Malaysia belongs to the continent of Asia,Malaysia belongs to the continent of Antarctica,Antarctica
+Aprilov Point,part-of-continent,Antarctica,P30,Aprilov Point is a part of the continent of,Aprilov Point is a part of the continent of Antarctica,Aprilov Point is a part of the continent of Europe,Europe
+Alexander Island,part-of-continent,Antarctica,P30,Alexander Island is a part of the continent of,Alexander Island is a part of the continent of Antarctica,Alexander Island is a part of the continent of Africa,Africa
+William Scoresby Bay,part-of-continent,Antarctica,P30,William Scoresby Bay is a part of the continent of,William Scoresby Bay is a part of the continent of Antarctica,William Scoresby Bay is a part of the continent of Asia,Asia
+Estonia,part-of-continent,Europe,P30,Estonia is a part of the continent of,Estonia is a part of the continent of Europe,Estonia is a part of the continent of Asia,Asia
+Elbe,belong-to-continent,Europe,P30,Elbe belongs to the continent of,Elbe belongs to the continent of Europe,Elbe belongs to the continent of Africa,Africa
+Kirkpatrick Glacier,part-of-continent,Antarctica,P30,Kirkpatrick Glacier is a part of the continent of,Kirkpatrick Glacier is a part of the continent of Antarctica,Kirkpatrick Glacier is a part of the continent of Africa,Africa
+Annamalai University,belong-to-continent,Asia,P30,Annamalai University belongs to the continent of,Annamalai University belongs to the continent of Asia,Annamalai University belongs to the continent of Antarctica,Antarctica
+Kouilou-Niari River,part-of-continent,Africa,P30,Kouilou-Niari River is a part of the continent of,Kouilou-Niari River is a part of the continent of Africa,Kouilou-Niari River is a part of the continent of Antarctica,Antarctica
+European Union,part-of-continent,Europe,P30,European Union is a part of the continent of,European Union is a part of the continent of Europe,European Union is a part of the continent of Asia,Asia
+Iran,part-of-continent,Asia,P30,Iran is a part of the continent of,Iran is a part of the continent of Asia,Iran is a part of the continent of Antarctica,Antarctica
+Damavand,belong-to-continent,Asia,P30,Damavand belongs to the continent of,Damavand belongs to the continent of Asia,Damavand belongs to the continent of Antarctica,Antarctica
+Kalahari Desert,part-of-continent,Africa,P30,Kalahari Desert is a part of the continent of,Kalahari Desert is a part of the continent of Africa,Kalahari Desert is a part of the continent of Europe,Europe
+Crosswell Glacier,part-of-continent,Antarctica,P30,Crosswell Glacier is a part of the continent of,Crosswell Glacier is a part of the continent of Antarctica,Crosswell Glacier is a part of the continent of Africa,Africa
+Katowice,part-of-continent,Europe,P30,Katowice is a part of the continent of,Katowice is a part of the continent of Europe,Katowice is a part of the continent of Africa,Africa
+Mont Blanc,part-of-continent,Europe,P30,Mont Blanc is a part of the continent of,Mont Blanc is a part of the continent of Europe,Mont Blanc is a part of the continent of Antarctica,Antarctica
+Newcomer Glacier,part-of-continent,Antarctica,P30,Newcomer Glacier is a part of the continent of,Newcomer Glacier is a part of the continent of Antarctica,Newcomer Glacier is a part of the continent of Europe,Europe
+Rutford Ice Stream,part-of-continent,Antarctica,P30,Rutford Ice Stream is a part of the continent of,Rutford Ice Stream is a part of the continent of Antarctica,Rutford Ice Stream is a part of the continent of Africa,Africa
+Cleveland Glacier,part-of-continent,Antarctica,P30,Cleveland Glacier is a part of the continent of,Cleveland Glacier is a part of the continent of Antarctica,Cleveland Glacier is a part of the continent of Asia,Asia
+Greece,part-of-continent,Europe,P30,Greece is a part of the continent of,Greece is a part of the continent of Europe,Greece is a part of the continent of Antarctica,Antarctica
+Bertram Glacier,part-of-continent,Antarctica,P30,Bertram Glacier is a part of the continent of,Bertram Glacier is a part of the continent of Antarctica,Bertram Glacier is a part of the continent of Europe,Europe
+Mayotte,belong-to-continent,Africa,P30,Mayotte belongs to the continent of,Mayotte belongs to the continent of Africa,Mayotte belongs to the continent of Asia,Asia
+Ryder Glacier,part-of-continent,Antarctica,P30,Ryder Glacier is a part of the continent of,Ryder Glacier is a part of the continent of Antarctica,Ryder Glacier is a part of the continent of Europe,Europe
+Thomas Glacier,part-of-continent,Antarctica,P30,Thomas Glacier is a part of the continent of,Thomas Glacier is a part of the continent of Antarctica,Thomas Glacier is a part of the continent of Asia,Asia
+British Graham Land Expedition,part-of-continent,Antarctica,P30,British Graham Land Expedition is a part of the continent of,British Graham Land Expedition is a part of the continent of Antarctica,British Graham Land Expedition is a part of the continent of Asia,Asia
+Cambodia,part-of-continent,Asia,P30,Cambodia is a part of the continent of,Cambodia is a part of the continent of Asia,Cambodia is a part of the continent of Antarctica,Antarctica
+Seal Nunataks,belong-to-continent,Antarctica,P30,Seal Nunataks belongs to the continent of,Seal Nunataks belongs to the continent of Antarctica,Seal Nunataks belongs to the continent of Africa,Africa
+Flask Glacier,part-of-continent,Antarctica,P30,Flask Glacier is a part of the continent of,Flask Glacier is a part of the continent of Antarctica,Flask Glacier is a part of the continent of Asia,Asia
+New Delhi,belong-to-continent,Asia,P30,New Delhi belongs to the continent of,New Delhi belongs to the continent of Asia,New Delhi belongs to the continent of Europe,Europe
+Rayner Glacier,part-of-continent,Antarctica,P30,Rayner Glacier is a part of the continent of,Rayner Glacier is a part of the continent of Antarctica,Rayner Glacier is a part of the continent of Europe,Europe
+San Marino,part-of-continent,Europe,P30,San Marino is a part of the continent of,San Marino is a part of the continent of Europe,San Marino is a part of the continent of Antarctica,Antarctica
+Astrolabe Glacier,part-of-continent,Antarctica,P30,Astrolabe Glacier is a part of the continent of,Astrolabe Glacier is a part of the continent of Antarctica,Astrolabe Glacier is a part of the continent of Asia,Asia
+Kirkby Glacier,part-of-continent,Antarctica,P30,Kirkby Glacier is a part of the continent of,Kirkby Glacier is a part of the continent of Antarctica,Kirkby Glacier is a part of the continent of Europe,Europe
+Davis Station,part-of-continent,Antarctica,P30,Davis Station is a part of the continent of,Davis Station is a part of the continent of Antarctica,Davis Station is a part of the continent of Asia,Asia
+Urdoviza Glacier,part-of-continent,Antarctica,P30,Urdoviza Glacier is a part of the continent of,Urdoviza Glacier is a part of the continent of Antarctica,Urdoviza Glacier is a part of the continent of Europe,Europe
+Leverett Glacier,part-of-continent,Antarctica,P30,Leverett Glacier is a part of the continent of,Leverett Glacier is a part of the continent of Antarctica,Leverett Glacier is a part of the continent of Europe,Europe
+Roberts Massif,belong-to-continent,Antarctica,P30,Roberts Massif belongs to the continent of,Roberts Massif belongs to the continent of Antarctica,Roberts Massif belongs to the continent of Africa,Africa
+Lebanon,belong-to-continent,Asia,P30,Lebanon belongs to the continent of,Lebanon belongs to the continent of Asia,Lebanon belongs to the continent of Antarctica,Antarctica
+Dutch Republic,belong-to-continent,Europe,P30,Dutch Republic belongs to the continent of,Dutch Republic belongs to the continent of Europe,Dutch Republic belongs to the continent of Asia,Asia
+Argosy Glacier,part-of-continent,Antarctica,P30,Argosy Glacier is a part of the continent of,Argosy Glacier is a part of the continent of Antarctica,Argosy Glacier is a part of the continent of Asia,Asia
+Ninnis Glacier,part-of-continent,Antarctica,P30,Ninnis Glacier is a part of the continent of,Ninnis Glacier is a part of the continent of Antarctica,Ninnis Glacier is a part of the continent of Africa,Africa
+Snakeskin Glacier,part-of-continent,Antarctica,P30,Snakeskin Glacier is a part of the continent of,Snakeskin Glacier is a part of the continent of Antarctica,Snakeskin Glacier is a part of the continent of Asia,Asia
+Northwind Glacier,part-of-continent,Antarctica,P30,Northwind Glacier is a part of the continent of,Northwind Glacier is a part of the continent of Antarctica,Northwind Glacier is a part of the continent of Africa,Africa
+Madagascar,part-of-continent,Africa,P30,Madagascar is a part of the continent of,Madagascar is a part of the continent of Africa,Madagascar is a part of the continent of Antarctica,Antarctica
+Eswatini,belong-to-continent,Africa,P30,Eswatini belongs to the continent of,Eswatini belongs to the continent of Africa,Eswatini belongs to the continent of Europe,Europe
+Fendley Glacier,part-of-continent,Antarctica,P30,Fendley Glacier is a part of the continent of,Fendley Glacier is a part of the continent of Antarctica,Fendley Glacier is a part of the continent of Europe,Europe
+Iskar Glacier,part-of-continent,Antarctica,P30,Iskar Glacier is a part of the continent of,Iskar Glacier is a part of the continent of Antarctica,Iskar Glacier is a part of the continent of Europe,Europe
+United Kingdom of Great Britain and Ireland,part-of-continent,Europe,P30,United Kingdom of Great Britain and Ireland is a part of the continent of,United Kingdom of Great Britain and Ireland is a part of the continent of Europe,United Kingdom of Great Britain and Ireland is a part of the continent of Africa,Africa
+Carryer Glacier,part-of-continent,Antarctica,P30,Carryer Glacier is a part of the continent of,Carryer Glacier is a part of the continent of Antarctica,Carryer Glacier is a part of the continent of Asia,Asia
+Bosnia and Herzegovina,part-of-continent,Europe,P30,Bosnia and Herzegovina is a part of the continent of,Bosnia and Herzegovina is a part of the continent of Europe,Bosnia and Herzegovina is a part of the continent of Africa,Africa
+Bulgaria,part-of-continent,Europe,P30,Bulgaria is a part of the continent of,Bulgaria is a part of the continent of Europe,Bulgaria is a part of the continent of Antarctica,Antarctica
+Austria-Hungary,part-of-continent,Europe,P30,Austria-Hungary is a part of the continent of,Austria-Hungary is a part of the continent of Europe,Austria-Hungary is a part of the continent of Africa,Africa
+Wales,belong-to-continent,Europe,P30,Wales belongs to the continent of,Wales belongs to the continent of Europe,Wales belongs to the continent of Africa,Africa
+River Clyde,belong-to-continent,Europe,P30,River Clyde belongs to the continent of,River Clyde belongs to the continent of Europe,River Clyde belongs to the continent of Antarctica,Antarctica
+Gambia River,part-of-continent,Africa,P30,Gambia River is a part of the continent of,Gambia River is a part of the continent of Africa,Gambia River is a part of the continent of Europe,Europe
+Beaumont Glacier,part-of-continent,Antarctica,P30,Beaumont Glacier is a part of the continent of,Beaumont Glacier is a part of the continent of Antarctica,Beaumont Glacier is a part of the continent of Africa,Africa
+Pautalia Glacier,part-of-continent,Antarctica,P30,Pautalia Glacier is a part of the continent of,Pautalia Glacier is a part of the continent of Antarctica,Pautalia Glacier is a part of the continent of Europe,Europe
+Holdsworth Glacier,part-of-continent,Antarctica,P30,Holdsworth Glacier is a part of the continent of,Holdsworth Glacier is a part of the continent of Antarctica,Holdsworth Glacier is a part of the continent of Africa,Africa
+Kingdom of Burgundy,belong-to-continent,Europe,P30,Kingdom of Burgundy belongs to the continent of,Kingdom of Burgundy belongs to the continent of Europe,Kingdom of Burgundy belongs to the continent of Antarctica,Antarctica
+Grossman Nunataks,belong-to-continent,Antarctica,P30,Grossman Nunataks belongs to the continent of,Grossman Nunataks belongs to the continent of Antarctica,Grossman Nunataks belongs to the continent of Africa,Africa
+Moubray Glacier,part-of-continent,Antarctica,P30,Moubray Glacier is a part of the continent of,Moubray Glacier is a part of the continent of Antarctica,Moubray Glacier is a part of the continent of Asia,Asia
+Namibia,part-of-continent,Africa,P30,Namibia is a part of the continent of,Namibia is a part of the continent of Africa,Namibia is a part of the continent of Europe,Europe
+Wright Lower Glacier,part-of-continent,Antarctica,P30,Wright Lower Glacier is a part of the continent of,Wright Lower Glacier is a part of the continent of Antarctica,Wright Lower Glacier is a part of the continent of Africa,Africa
+Vistula,part-of-continent,Europe,P30,Vistula is a part of the continent of,Vistula is a part of the continent of Europe,Vistula is a part of the continent of Asia,Asia
+Kanchenjunga,belong-to-continent,Asia,P30,Kanchenjunga belongs to the continent of,Kanchenjunga belongs to the continent of Asia,Kanchenjunga belongs to the continent of Africa,Africa
+Thiruvananthapuram,belong-to-continent,Asia,P30,Thiruvananthapuram belongs to the continent of,Thiruvananthapuram belongs to the continent of Asia,Thiruvananthapuram belongs to the continent of Europe,Europe
+Tashkent,belong-to-continent,Asia,P30,Tashkent belongs to the continent of,Tashkent belongs to the continent of Asia,Tashkent belongs to the continent of Africa,Africa
+Sjogren Glacier,part-of-continent,Antarctica,P30,Sjogren Glacier is a part of the continent of,Sjogren Glacier is a part of the continent of Antarctica,Sjogren Glacier is a part of the continent of Asia,Asia
+Armenia,part-of-continent,Europe,P30,Armenia is a part of the continent of,Armenia is a part of the continent of Europe,Armenia is a part of the continent of Antarctica,Antarctica
+Djibouti,part-of-continent,Africa,P30,Djibouti is a part of the continent of,Djibouti is a part of the continent of Africa,Djibouti is a part of the continent of Antarctica,Antarctica
+Bowman Glacier,part-of-continent,Antarctica,P30,Bowman Glacier is a part of the continent of,Bowman Glacier is a part of the continent of Antarctica,Bowman Glacier is a part of the continent of Africa,Africa
+Montenegro,part-of-continent,Europe,P30,Montenegro is a part of the continent of,Montenegro is a part of the continent of Europe,Montenegro is a part of the continent of Africa,Africa
+Tallinn,part-of-continent,Europe,P30,Tallinn is a part of the continent of,Tallinn is a part of the continent of Europe,Tallinn is a part of the continent of Asia,Asia
+Loire,belong-to-continent,Europe,P30,Loire belongs to the continent of,Loire belongs to the continent of Europe,Loire belongs to the continent of Antarctica,Antarctica
+Johnson Glacier,part-of-continent,Antarctica,P30,Johnson Glacier is a part of the continent of,Johnson Glacier is a part of the continent of Antarctica,Johnson Glacier is a part of the continent of Asia,Asia
+Shackleton Range,part-of-continent,Antarctica,P30,Shackleton Range is a part of the continent of,Shackleton Range is a part of the continent of Antarctica,Shackleton Range is a part of the continent of Asia,Asia
+Benson Glacier,part-of-continent,Antarctica,P30,Benson Glacier is a part of the continent of,Benson Glacier is a part of the continent of Antarctica,Benson Glacier is a part of the continent of Asia,Asia
+Romulus Glacier,belong-to-continent,Antarctica,P30,Romulus Glacier belongs to the continent of,Romulus Glacier belongs to the continent of Antarctica,Romulus Glacier belongs to the continent of Africa,Africa
+Orange Free State,belong-to-continent,Africa,P30,Orange Free State belongs to the continent of,Orange Free State belongs to the continent of Africa,Orange Free State belongs to the continent of Asia,Asia
+Comoros,part-of-continent,Africa,P30,Comoros is a part of the continent of,Comoros is a part of the continent of Africa,Comoros is a part of the continent of Europe,Europe
+Reeves Glacier,part-of-continent,Antarctica,P30,Reeves Glacier is a part of the continent of,Reeves Glacier is a part of the continent of Antarctica,Reeves Glacier is a part of the continent of Africa,Africa
+Finland,part-of-continent,Europe,P30,Finland is a part of the continent of,Finland is a part of the continent of Europe,Finland is a part of the continent of Antarctica,Antarctica
+English Channel,belong-to-continent,Europe,P30,English Channel belongs to the continent of,English Channel belongs to the continent of Europe,English Channel belongs to the continent of Africa,Africa
+Congo basin,part-of-continent,Africa,P30,Congo basin is a part of the continent of,Congo basin is a part of the continent of Africa,Congo basin is a part of the continent of Europe,Europe
+Sudan,part-of-continent,Africa,P30,Sudan is a part of the continent of,Sudan is a part of the continent of Africa,Sudan is a part of the continent of Europe,Europe
+Butler Glacier,part-of-continent,Antarctica,P30,Butler Glacier is a part of the continent of,Butler Glacier is a part of the continent of Antarctica,Butler Glacier is a part of the continent of Africa,Africa
+Lavoisier Island,belong-to-continent,Antarctica,P30,Lavoisier Island belongs to the continent of,Lavoisier Island belongs to the continent of Antarctica,Lavoisier Island belongs to the continent of Asia,Asia
+Gadag district,belong-to-continent,Asia,P30,Gadag district belongs to the continent of,Gadag district belongs to the continent of Asia,Gadag district belongs to the continent of Europe,Europe
+North Macedonia,part-of-continent,Europe,P30,North Macedonia is a part of the continent of,North Macedonia is a part of the continent of Europe,North Macedonia is a part of the continent of Asia,Asia
+Entente Florale,belong-to-continent,Europe,P30,Entente Florale belongs to the continent of,Entente Florale belongs to the continent of Europe,Entente Florale belongs to the continent of Antarctica,Antarctica
+Czechoslovakia,belong-to-continent,Europe,P30,Czechoslovakia belongs to the continent of,Czechoslovakia belongs to the continent of Europe,Czechoslovakia belongs to the continent of Antarctica,Antarctica
+Harsewinkel,belong-to-continent,Europe,P30,Harsewinkel belongs to the continent of,Harsewinkel belongs to the continent of Europe,Harsewinkel belongs to the continent of Asia,Asia
+Griffith Glacier,belong-to-continent,Antarctica,P30,Griffith Glacier belongs to the continent of,Griffith Glacier belongs to the continent of Antarctica,Griffith Glacier belongs to the continent of Europe,Europe
+Recovery Glacier,part-of-continent,Antarctica,P30,Recovery Glacier is a part of the continent of,Recovery Glacier is a part of the continent of Antarctica,Recovery Glacier is a part of the continent of Europe,Europe
+Fosdick Mountains,belong-to-continent,Antarctica,P30,Fosdick Mountains belongs to the continent of,Fosdick Mountains belongs to the continent of Antarctica,Fosdick Mountains belongs to the continent of Europe,Europe
+Hippocrates Glacier,part-of-continent,Antarctica,P30,Hippocrates Glacier is a part of the continent of,Hippocrates Glacier is a part of the continent of Antarctica,Hippocrates Glacier is a part of the continent of Africa,Africa
+Khabarovsk,belong-to-continent,Asia,P30,Khabarovsk belongs to the continent of,Khabarovsk belongs to the continent of Asia,Khabarovsk belongs to the continent of Africa,Africa
+Vestreskorve Glacier,belong-to-continent,Antarctica,P30,Vestreskorve Glacier belongs to the continent of,Vestreskorve Glacier belongs to the continent of Antarctica,Vestreskorve Glacier belongs to the continent of Europe,Europe
+Austria,part-of-continent,Europe,P30,Austria is a part of the continent of,Austria is a part of the continent of Europe,Austria is a part of the continent of Antarctica,Antarctica
+Gibbs Glacier,part-of-continent,Antarctica,P30,Gibbs Glacier is a part of the continent of,Gibbs Glacier is a part of the continent of Antarctica,Gibbs Glacier is a part of the continent of Africa,Africa
+Borchgrevink Glacier,part-of-continent,Antarctica,P30,Borchgrevink Glacier is a part of the continent of,Borchgrevink Glacier is a part of the continent of Antarctica,Borchgrevink Glacier is a part of the continent of Europe,Europe
+Soviet Union,part-of-continent,Europe,P30,Soviet Union is a part of the continent of,Soviet Union is a part of the continent of Europe,Soviet Union is a part of the continent of Asia,Asia
+Scheldt,belong-to-continent,Europe,P30,Scheldt belongs to the continent of,Scheldt belongs to the continent of Europe,Scheldt belongs to the continent of Asia,Asia
+Princess Elisabeth Antarctica,part-of-continent,Antarctica,P30,Princess Elisabeth Antarctica is a part of the continent of,Princess Elisabeth Antarctica is a part of the continent of Antarctica,Princess Elisabeth Antarctica is a part of the continent of Europe,Europe
+Southern Netherlands,part-of-continent,Europe,P30,Southern Netherlands is a part of the continent of,Southern Netherlands is a part of the continent of Europe,Southern Netherlands is a part of the continent of Antarctica,Antarctica
+South Asia,belong-to-continent,Asia,P30,South Asia belongs to the continent of,South Asia belongs to the continent of Asia,South Asia belongs to the continent of Antarctica,Antarctica
+Equatorial Guinea,part-of-continent,Africa,P30,Equatorial Guinea is a part of the continent of,Equatorial Guinea is a part of the continent of Africa,Equatorial Guinea is a part of the continent of Antarctica,Antarctica
+history of Africa,part-of-continent,Africa,P30,history of Africa is a part of the continent of,history of Africa is a part of the continent of Africa,history of Africa is a part of the continent of Asia,Asia
+Pare Glacier,part-of-continent,Antarctica,P30,Pare Glacier is a part of the continent of,Pare Glacier is a part of the continent of Antarctica,Pare Glacier is a part of the continent of Africa,Africa
+Shirase Glacier,part-of-continent,Antarctica,P30,Shirase Glacier is a part of the continent of,Shirase Glacier is a part of the continent of Antarctica,Shirase Glacier is a part of the continent of Europe,Europe
+Craiova,belong-to-continent,Europe,P30,Craiova belongs to the continent of,Craiova belongs to the continent of Europe,Craiova belongs to the continent of Africa,Africa
+Noll Glacier,part-of-continent,Antarctica,P30,Noll Glacier is a part of the continent of,Noll Glacier is a part of the continent of Antarctica,Noll Glacier is a part of the continent of Africa,Africa
+Hansen Glacier,part-of-continent,Antarctica,P30,Hansen Glacier is a part of the continent of,Hansen Glacier is a part of the continent of Antarctica,Hansen Glacier is a part of the continent of Asia,Asia
+Debenham Glacier,part-of-continent,Antarctica,P30,Debenham Glacier is a part of the continent of,Debenham Glacier is a part of the continent of Antarctica,Debenham Glacier is a part of the continent of Africa,Africa
+Lazarev Ice Shelf,belong-to-continent,Antarctica,P30,Lazarev Ice Shelf belongs to the continent of,Lazarev Ice Shelf belongs to the continent of Antarctica,Lazarev Ice Shelf belongs to the continent of Asia,Asia
+Imperial Trans-Antarctic Expedition,part-of-continent,Antarctica,P30,Imperial Trans-Antarctic Expedition is a part of the continent of,Imperial Trans-Antarctic Expedition is a part of the continent of Antarctica,Imperial Trans-Antarctic Expedition is a part of the continent of Asia,Asia
+Venus Glacier,part-of-continent,Antarctica,P30,Venus Glacier is a part of the continent of,Venus Glacier is a part of the continent of Antarctica,Venus Glacier is a part of the continent of Asia,Asia
+Euphrates,belong-to-continent,Asia,P30,Euphrates belongs to the continent of,Euphrates belongs to the continent of Asia,Euphrates belongs to the continent of Antarctica,Antarctica
+Cameroon,part-of-continent,Africa,P30,Cameroon is a part of the continent of,Cameroon is a part of the continent of Africa,Cameroon is a part of the continent of Asia,Asia
+Catalonia,belong-to-continent,Europe,P30,Catalonia belongs to the continent of,Catalonia belongs to the continent of Europe,Catalonia belongs to the continent of Asia,Asia
+Mozambique,part-of-continent,Africa,P30,Mozambique is a part of the continent of,Mozambique is a part of the continent of Africa,Mozambique is a part of the continent of Asia,Asia
+Shenzhen,belong-to-continent,Asia,P30,Shenzhen belongs to the continent of,Shenzhen belongs to the continent of Asia,Shenzhen belongs to the continent of Europe,Europe
+Schokalsky Bay,part-of-continent,Antarctica,P30,Schokalsky Bay is a part of the continent of,Schokalsky Bay is a part of the continent of Antarctica,Schokalsky Bay is a part of the continent of Europe,Europe
+Thailand,part-of-continent,Asia,P30,Thailand is a part of the continent of,Thailand is a part of the continent of Asia,Thailand is a part of the continent of Africa,Africa
+Craddock Massif,part-of-continent,Antarctica,P30,Craddock Massif is a part of the continent of,Craddock Massif is a part of the continent of Antarctica,Craddock Massif is a part of the continent of Africa,Africa
+Victoria Upper Glacier,part-of-continent,Antarctica,P30,Victoria Upper Glacier is a part of the continent of,Victoria Upper Glacier is a part of the continent of Antarctica,Victoria Upper Glacier is a part of the continent of Asia,Asia
+Hanoi,belong-to-continent,Asia,P30,Hanoi belongs to the continent of,Hanoi belongs to the continent of Asia,Hanoi belongs to the continent of Europe,Europe
+Russell East Glacier,part-of-continent,Antarctica,P30,Russell East Glacier is a part of the continent of,Russell East Glacier is a part of the continent of Antarctica,Russell East Glacier is a part of the continent of Africa,Africa
+Rose Valley Glacier,part-of-continent,Antarctica,P30,Rose Valley Glacier is a part of the continent of,Rose Valley Glacier is a part of the continent of Antarctica,Rose Valley Glacier is a part of the continent of Europe,Europe
+James Ross Island group,part-of-continent,Antarctica,P30,James Ross Island group is a part of the continent of,James Ross Island group is a part of the continent of Antarctica,James Ross Island group is a part of the continent of Africa,Africa
+Contell Glacier,part-of-continent,Antarctica,P30,Contell Glacier is a part of the continent of,Contell Glacier is a part of the continent of Antarctica,Contell Glacier is a part of the continent of Africa,Africa
+Reedy Glacier,belong-to-continent,Antarctica,P30,Reedy Glacier belongs to the continent of,Reedy Glacier belongs to the continent of Antarctica,Reedy Glacier belongs to the continent of Europe,Europe
+David Glacier,part-of-continent,Antarctica,P30,David Glacier is a part of the continent of,David Glacier is a part of the continent of Antarctica,David Glacier is a part of the continent of Africa,Africa
+Gelderland,part-of-continent,Europe,P30,Gelderland is a part of the continent of,Gelderland is a part of the continent of Europe,Gelderland is a part of the continent of Asia,Asia
+Lucy Glacier,part-of-continent,Antarctica,P30,Lucy Glacier is a part of the continent of,Lucy Glacier is a part of the continent of Antarctica,Lucy Glacier is a part of the continent of Asia,Asia
+Burundi,part-of-continent,Africa,P30,Burundi is a part of the continent of,Burundi is a part of the continent of Africa,Burundi is a part of the continent of Antarctica,Antarctica
+Schytt Glacier,part-of-continent,Antarctica,P30,Schytt Glacier is a part of the continent of,Schytt Glacier is a part of the continent of Antarctica,Schytt Glacier is a part of the continent of Europe,Europe
+Saint Petersburg,belong-to-continent,Europe,P30,Saint Petersburg belongs to the continent of,Saint Petersburg belongs to the continent of Europe,Saint Petersburg belongs to the continent of Antarctica,Antarctica
+Tiber,belong-to-continent,Europe,P30,Tiber belongs to the continent of,Tiber belongs to the continent of Europe,Tiber belongs to the continent of Asia,Asia
+history of Europe,part-of-continent,Europe,P30,history of Europe is a part of the continent of,history of Europe is a part of the continent of Europe,history of Europe is a part of the continent of Asia,Asia
+Chamarajanagar district,belong-to-continent,Asia,P30,Chamarajanagar district belongs to the continent of,Chamarajanagar district belongs to the continent of Asia,Chamarajanagar district belongs to the continent of Antarctica,Antarctica
+Moscow,part-of-continent,Europe,P30,Moscow is a part of the continent of,Moscow is a part of the continent of Europe,Moscow is a part of the continent of Africa,Africa
+Transantarctic Mountains,part-of-continent,Antarctica,P30,Transantarctic Mountains is a part of the continent of,Transantarctic Mountains is a part of the continent of Antarctica,Transantarctic Mountains is a part of the continent of Europe,Europe
+Eureka Glacier,part-of-continent,Antarctica,P30,Eureka Glacier is a part of the continent of,Eureka Glacier is a part of the continent of Antarctica,Eureka Glacier is a part of the continent of Africa,Africa
+England,part-of-continent,Europe,P30,England is a part of the continent of,England is a part of the continent of Europe,England is a part of the continent of Africa,Africa
+Chukotka Autonomous Okrug,belong-to-continent,Asia,P30,Chukotka Autonomous Okrug belongs to the continent of,Chukotka Autonomous Okrug belongs to the continent of Asia,Chukotka Autonomous Okrug belongs to the continent of Africa,Africa
+Mulock Glacier,part-of-continent,Antarctica,P30,Mulock Glacier is a part of the continent of,Mulock Glacier is a part of the continent of Antarctica,Mulock Glacier is a part of the continent of Africa,Africa
+European Project for Ice Coring in Antarctica,part-of-continent,Antarctica,P30,European Project for Ice Coring in Antarctica is a part of the continent of,European Project for Ice Coring in Antarctica is a part of the continent of Antarctica,European Project for Ice Coring in Antarctica is a part of the continent of Europe,Europe
+Mertz Glacier,part-of-continent,Antarctica,P30,Mertz Glacier is a part of the continent of,Mertz Glacier is a part of the continent of Antarctica,Mertz Glacier is a part of the continent of Europe,Europe
+Spain,part-of-continent,Europe,P30,Spain is a part of the continent of,Spain is a part of the continent of Europe,Spain is a part of the continent of Asia,Asia
+Shipley Glacier,part-of-continent,Antarctica,P30,Shipley Glacier is a part of the continent of,Shipley Glacier is a part of the continent of Antarctica,Shipley Glacier is a part of the continent of Asia,Asia
+Kingdom of Mercia,belong-to-continent,Europe,P30,Kingdom of Mercia belongs to the continent of,Kingdom of Mercia belongs to the continent of Europe,Kingdom of Mercia belongs to the continent of Asia,Asia
+Dennistoun Glacier,part-of-continent,Antarctica,P30,Dennistoun Glacier is a part of the continent of,Dennistoun Glacier is a part of the continent of Antarctica,Dennistoun Glacier is a part of the continent of Africa,Africa
+Japan,part-of-continent,Asia,P30,Japan is a part of the continent of,Japan is a part of the continent of Asia,Japan is a part of the continent of Antarctica,Antarctica
+Douro,belong-to-continent,Europe,P30,Douro belongs to the continent of,Douro belongs to the continent of Europe,Douro belongs to the continent of Asia,Asia
+Carolingian Empire,belong-to-continent,Europe,P30,Carolingian Empire belongs to the continent of,Carolingian Empire belongs to the continent of Europe,Carolingian Empire belongs to the continent of Antarctica,Antarctica
+Topeka,capital-city-of,Kansas,P1376,Topeka is the capital city of,Topeka is the capital city of Kansas,Topeka is the capital city of Sydney,Sydney
+Doha,capital-of,Qatar,P1376,"Doha, the capital of","Doha, the capital of Qatar","Doha, the capital of Cleveland",Cleveland
+New Delhi,capital-city-of,India,P1376,"New Delhi, the capital city of","New Delhi, the capital city of India","New Delhi, the capital city of Ireland",Ireland
+Chile,capital-of,Santiago,P1376,"Chile's capital,","Chile's capital, Santiago","Chile's capital, Maryland",Maryland
+Bamako,capital-of,Mali,P1376,"Bamako, the capital of","Bamako, the capital of Mali","Bamako, the capital of Baghdad",Baghdad
+Texas,capital-of,Austin,P1376,"Texas's capital,","Texas's capital, Austin","Texas's capital, Beijing",Beijing
+United Kingdom,capital-of,London,P1376,"United Kingdom's capital,","United Kingdom's capital, London","United Kingdom's capital, Senegal",Senegal
+First Portuguese Republic,capital-of,Lisbon,P1376,"First Portuguese Republic's capital,","First Portuguese Republic's capital, Lisbon","First Portuguese Republic's capital, Ukraine",Ukraine
+Province of Naples,capital-of,Naples,P1376,"Province of Naples's capital,","Province of Naples's capital, Naples","Province of Naples's capital, Colorado",Colorado
+Jakarta,capital-city-of,Indonesia,P1376,"Jakarta, that is the capital city of","Jakarta, that is the capital city of Indonesia","Jakarta, that is the capital city of Colorado",Colorado
+Kigali,capital-of,Rwanda,P1376,"Kigali, the capital of","Kigali, the capital of Rwanda","Kigali, the capital of Naples",Naples
+Kuala Lumpur,capital-city-of,Malaysia,P1376,"Kuala Lumpur, the capital city of","Kuala Lumpur, the capital city of Malaysia","Kuala Lumpur, the capital city of Nicaragua",Nicaragua
+Tokyo,capital-city-of,Japan,P1376,Tokyo is the capital city of,Tokyo is the capital city of Japan,Tokyo is the capital city of Amsterdam,Amsterdam
+Kingdom of Greece,capital-of,Athens,P1376,"Kingdom of Greece's capital,","Kingdom of Greece's capital, Athens","Kingdom of Greece's capital, Ontario",Ontario
+Waikato Region,capital-of,Hamilton,P1376,The capital of Waikato Region is,The capital of Waikato Region is Hamilton,The capital of Waikato Region is Rome,Rome
+Hartford,capital-of,Connecticut,P1376,"Hartford, that is the capital of","Hartford, that is the capital of Connecticut","Hartford, that is the capital of Paris",Paris
+County Durham,capital-of,Durham,P1376,"County Durham's capital,","County Durham's capital, Durham","County Durham's capital, Maryland",Maryland
+Czech Republic,capital-of,Prague,P1376,"Czech Republic's capital,","Czech Republic's capital, Prague","Czech Republic's capital, Afghanistan",Afghanistan
+Nova Scotia,capital-of,Halifax,P1376,"Nova Scotia's capital,","Nova Scotia's capital, Halifax","Nova Scotia's capital, Tasmania",Tasmania
+Des Moines,capital-of,Iowa,P1376,"Des Moines, that is the capital of","Des Moines, that is the capital of Iowa","Des Moines, that is the capital of Maryland",Maryland
+Kingdom of Bavaria,capital-of,Munich,P1376,"Kingdom of Bavaria's capital,","Kingdom of Bavaria's capital, Munich","Kingdom of Bavaria's capital, Ottawa",Ottawa
+Habsburg Monarchy,capital-of,Vienna,P1376,"Habsburg Monarchy's capital,","Habsburg Monarchy's capital, Vienna","Habsburg Monarchy's capital, Concord",Concord
+Athens,capital-city-of,Greece,P1376,Athens is the capital city of,Athens is the capital city of Greece,Athens is the capital city of Edinburgh,Edinburgh
+Virginia,capital-of,Richmond,P1376,"Virginia's capital,","Virginia's capital, Richmond","Virginia's capital, Karachi",Karachi
+Little Rock,capital-city-of,Arkansas,P1376,"Little Rock, the capital city of","Little Rock, the capital city of Arkansas","Little Rock, the capital city of Japan",Japan
+Switzerland,capital-of,Bern,P1376,"Switzerland's capital,","Switzerland's capital, Bern","Switzerland's capital, Rome",Rome
+Libya,capital-of,Tripoli,P1376,"Libya's capital,","Libya's capital, Tripoli","Libya's capital, Haiti",Haiti
+Russian Soviet Federative Socialist Republic,capital-of,Moscow,P1376,The capital of Russian Soviet Federative Socialist Republic is,The capital of Russian Soviet Federative Socialist Republic is Moscow,The capital of Russian Soviet Federative Socialist Republic is Laos,Laos
+Russia,capital-city-of,Moscow,P1376,"Russia's capital city,","Russia's capital city, Moscow","Russia's capital city, Venice",Venice
+Edinburgh,capital-city-of,Scotland,P1376,Edinburgh is the capital city of,Edinburgh is the capital city of Scotland,Edinburgh is the capital city of Cardiff,Cardiff
+Illinois,capital-of,Springfield,P1376,"Illinois's capital,","Illinois's capital, Springfield","Illinois's capital, Columbus",Columbus
+Taipei,capital-city-of,Taiwan,P1376,"Taipei, that is the capital city of","Taipei, that is the capital city of Taiwan","Taipei, that is the capital city of Idaho",Idaho
+Madrid,capital-city-of,Spain,P1376,"Madrid, that is the capital city of","Madrid, that is the capital city of Spain","Madrid, that is the capital city of Iraq",Iraq
+Zagreb,capital-city-of,Croatia,P1376,"Zagreb, that is the capital city of","Zagreb, that is the capital city of Croatia","Zagreb, that is the capital city of Moscow",Moscow
+Lebanon,capital-of,Beirut,P1376,"Lebanon's capital,","Lebanon's capital, Beirut","Lebanon's capital, Naples",Naples
+Dhaka,capital-city-of,Bangladesh,P1376,"Dhaka, the capital city of","Dhaka, the capital city of Bangladesh","Dhaka, the capital city of Fiji",Fiji
+N'Djamena,capital-city-of,Chad,P1376,"N'Djamena, the capital city of","N'Djamena, the capital city of Chad","N'Djamena, the capital city of Tanzania",Tanzania
+Sacramento,capital-of,California,P1376,"Sacramento, the capital of","Sacramento, the capital of California","Sacramento, the capital of Bangladesh",Bangladesh
+Rhode Island,capital-of,Providence,P1376,"Rhode Island's capital,","Rhode Island's capital, Providence","Rhode Island's capital, Ontario",Ontario
+Vilnius,capital-of,Lithuania,P1376,"Vilnius, the capital of","Vilnius, the capital of Lithuania","Vilnius, the capital of Prague",Prague
+Vichy France,capital-of,Paris,P1376,"Vichy France's capital,","Vichy France's capital, Paris","Vichy France's capital, Japan",Japan
+Stockholm,capital-of,Sweden,P1376,"Stockholm, that is the capital of","Stockholm, that is the capital of Sweden","Stockholm, that is the capital of Malaysia",Malaysia
+Syria,capital-of,Damascus,P1376,"Syria's capital,","Syria's capital, Damascus","Syria's capital, Kerala",Kerala
+Roman Republic,capital-of,Rome,P1376,The capital of Roman Republic is,The capital of Roman Republic is Rome,The capital of Roman Republic is Durham,Durham
+Aberdeen City Council,capital-city-of,Aberdeen,P1376,"Aberdeen City Council's capital city,","Aberdeen City Council's capital city, Aberdeen","Aberdeen City Council's capital city, Cardiff",Cardiff
+South Carolina,capital-of,Columbia,P1376,"South Carolina's capital,","South Carolina's capital, Columbia","South Carolina's capital, Florida",Florida
+Canada,capital-of,Ottawa,P1376,"Canada's capital,","Canada's capital, Ottawa","Canada's capital, Columbia",Columbia
+United Kingdom of Great Britain and Ireland,capital-of,London,P1376,"United Kingdom of Great Britain and Ireland's capital,","United Kingdom of Great Britain and Ireland's capital, London","United Kingdom of Great Britain and Ireland's capital, Guatemala",Guatemala
+Vienna,capital-of,Austria,P1376,Vienna is the capital of,Vienna is the capital of Austria,Vienna is the capital of Tunisia,Tunisia
+Sindh,capital-of,Karachi,P1376,The capital of Sindh is,The capital of Sindh is Karachi,The capital of Sindh is Rome,Rome
+Ottawa,capital-of,Canada,P1376,Ottawa is the capital of,Ottawa is the capital of Canada,Ottawa is the capital of Karachi,Karachi
+Neo-Babylonian Empire,capital-city-of,Babylon,P1376,"Neo-Babylonian Empire's capital city,","Neo-Babylonian Empire's capital city, Babylon","Neo-Babylonian Empire's capital city, Estonia",Estonia
+Kingdom of Egypt,capital-of,Cairo,P1376,"Kingdom of Egypt's capital,","Kingdom of Egypt's capital, Cairo","Kingdom of Egypt's capital, Uruguay",Uruguay
+Tunis,capital-city-of,Tunisia,P1376,Tunis is the capital city of,Tunis is the capital city of Tunisia,Tunis is the capital city of Rome,Rome
+Cuba,capital-of,Havana,P1376,"Cuba's capital,","Cuba's capital, Havana","Cuba's capital, Copenhagen",Copenhagen
+Idaho,capital-city-of,Boise,P1376,"Idaho's capital city,","Idaho's capital city, Boise","Idaho's capital city, Kerala",Kerala
+Empire of Japan,capital-city-of,Tokyo,P1376,"Empire of Japan's capital city,","Empire of Japan's capital city, Tokyo","Empire of Japan's capital city, Kiev",Kiev
+Vientiane,capital-of,Laos,P1376,"Vientiane, the capital of","Vientiane, the capital of Laos","Vientiane, the capital of Karachi",Karachi
+Second Spanish Republic,capital-of,Madrid,P1376,The capital of Second Spanish Republic is,The capital of Second Spanish Republic is Madrid,The capital of Second Spanish Republic is Qatar,Qatar
+Denver,capital-city-of,Colorado,P1376,Denver is the capital city of,Denver is the capital city of Colorado,Denver is the capital city of Oslo,Oslo
+Toledo Province,capital-city-of,Toledo,P1376,"Toledo Province's capital city,","Toledo Province's capital city, Toledo","Toledo Province's capital city, Kiev",Kiev
+Montevideo,capital-city-of,Uruguay,P1376,"Montevideo, the capital city of","Montevideo, the capital city of Uruguay","Montevideo, the capital city of Portugal",Portugal
+Cuyahoga County,capital-city-of,Cleveland,P1376,"Cuyahoga County's capital city,","Cuyahoga County's capital city, Cleveland","Cuyahoga County's capital city, Louisiana",Louisiana
+Kingdom of Prussia,capital-of,Berlin,P1376,"Kingdom of Prussia's capital,","Kingdom of Prussia's capital, Berlin","Kingdom of Prussia's capital, Iraq",Iraq
+Kingdom of France,capital-of,Paris,P1376,"Kingdom of France's capital,","Kingdom of France's capital, Paris","Kingdom of France's capital, Tanzania",Tanzania
+Latin Empire,capital-of,Constantinople,P1376,"Latin Empire's capital,","Latin Empire's capital, Constantinople","Latin Empire's capital, Honolulu",Honolulu
+Ankara,capital-of,Turkey,P1376,"Ankara, the capital of","Ankara, the capital of Turkey","Ankara, the capital of Uruguay",Uruguay
+Kingdom of Hungary,capital-of,Budapest,P1376,"Kingdom of Hungary's capital,","Kingdom of Hungary's capital, Budapest","Kingdom of Hungary's capital, Copenhagen",Copenhagen
+Tirana,capital-city-of,Albania,P1376,"Tirana, the capital city of","Tirana, the capital city of Albania","Tirana, the capital city of Columbia",Columbia
+Tallahassee,capital-of,Florida,P1376,"Tallahassee, the capital of","Tallahassee, the capital of Florida","Tallahassee, the capital of Scotland",Scotland
+South Australia,capital-of,Adelaide,P1376,"South Australia's capital,","South Australia's capital, Adelaide","South Australia's capital, Uruguay",Uruguay
+Monrovia,capital-city-of,Liberia,P1376,Monrovia is the capital city of,Monrovia is the capital city of Liberia,Monrovia is the capital city of Afghanistan,Afghanistan
+Palermo,capital-city-of,Sicily,P1376,"Palermo, the capital city of","Palermo, the capital city of Sicily","Palermo, the capital city of Ecuador",Ecuador
+Conakry,capital-of,Guinea,P1376,"Conakry, that is the capital of","Conakry, that is the capital of Guinea","Conakry, that is the capital of Brussels",Brussels
+Toronto,capital-city-of,Ontario,P1376,Toronto is the capital city of,Toronto is the capital city of Ontario,Toronto is the capital city of Connecticut,Connecticut
+Flemish Community,capital-of,Brussels,P1376,The capital of Flemish Community is,The capital of Flemish Community is Brussels,The capital of Flemish Community is Honolulu,Honolulu
+Denmark,capital-city-of,Copenhagen,P1376,"Denmark's capital city,","Denmark's capital city, Copenhagen","Denmark's capital city, Qatar",Qatar
+Kiev,capital-of,Ukraine,P1376,Kiev is the capital of,Kiev is the capital of Ukraine,Kiev is the capital of Bulgaria,Bulgaria
+Bangkok,capital-city-of,Thailand,P1376,"Bangkok, that is the capital city of","Bangkok, that is the capital city of Thailand","Bangkok, that is the capital city of Massachusetts",Massachusetts
+Quito,capital-city-of,Ecuador,P1376,"Quito, the capital city of","Quito, the capital city of Ecuador","Quito, the capital city of Uganda",Uganda
+Dar es Salaam,capital-city-of,Tanzania,P1376,"Dar es Salaam, the capital city of","Dar es Salaam, the capital city of Tanzania","Dar es Salaam, the capital city of Kabul",Kabul
+Kuwait City,capital-city-of,Kuwait,P1376,"Kuwait City, the capital city of","Kuwait City, the capital city of Kuwait","Kuwait City, the capital city of Kabul",Kabul
+Japan,capital-city-of,Tokyo,P1376,"Japan's capital city,","Japan's capital city, Tokyo","Japan's capital city, Ecuador",Ecuador
+Bucharest,capital-of,Romania,P1376,"Bucharest, the capital of","Bucharest, the capital of Romania","Bucharest, the capital of Cyprus",Cyprus
+Portugal,capital-city-of,Lisbon,P1376,"Portugal's capital city,","Portugal's capital city, Lisbon","Portugal's capital city, Israel",Israel
+Finnish Socialist Workers' Republic,capital-of,Helsinki,P1376,"Finnish Socialist Workers' Republic's capital,","Finnish Socialist Workers' Republic's capital, Helsinki","Finnish Socialist Workers' Republic's capital, Columbus",Columbus
+Managua,capital-city-of,Nicaragua,P1376,"Managua, the capital city of","Managua, the capital city of Nicaragua","Managua, the capital city of Azerbaijan",Azerbaijan
+Lansing,capital-of,Michigan,P1376,"Lansing, that is the capital of","Lansing, that is the capital of Michigan","Lansing, that is the capital of Madison",Madison
+Republic of Venice,capital-of,Venice,P1376,The capital of Republic of Venice is,The capital of Republic of Venice is Venice,The capital of Republic of Venice is Winnipeg,Winnipeg
+Bohemia,capital-of,Prague,P1376,"Bohemia's capital,","Bohemia's capital, Prague","Bohemia's capital, Slovakia",Slovakia
+Tallinn,capital-of,Estonia,P1376,"Tallinn, that is the capital of","Tallinn, that is the capital of Estonia","Tallinn, that is the capital of Israel",Israel
+Hawaii,capital-city-of,Honolulu,P1376,"Hawaii's capital city,","Hawaii's capital city, Honolulu","Hawaii's capital city, Colorado",Colorado
+Kingdom of Ireland,capital-of,Dublin,P1376,"Kingdom of Ireland's capital,","Kingdom of Ireland's capital, Dublin","Kingdom of Ireland's capital, Boston",Boston
+Metropolitan France,capital-of,Paris,P1376,"Metropolitan France's capital,","Metropolitan France's capital, Paris","Metropolitan France's capital, Panama",Panama
+Ireland,capital-of,Dublin,P1376,"Ireland's capital,","Ireland's capital, Dublin","Ireland's capital, Columbus",Columbus
+Indianapolis,capital-of,Indiana,P1376,"Indianapolis, the capital of","Indianapolis, the capital of Indiana","Indianapolis, the capital of Copenhagen",Copenhagen
+Edmonton,capital-city-of,Alberta,P1376,Edmonton is the capital city of,Edmonton is the capital city of Alberta,Edmonton is the capital city of India,India
+Lisbon,capital-city-of,Portugal,P1376,"Lisbon, that is the capital city of","Lisbon, that is the capital city of Portugal","Lisbon, that is the capital city of Greece",Greece
+Spanish Empire,capital-of,Madrid,P1376,The capital of Spanish Empire is,The capital of Spanish Empire is Madrid,The capital of Spanish Empire is Thailand,Thailand
+Warsaw,capital-city-of,Poland,P1376,Warsaw is the capital city of,Warsaw is the capital city of Poland,Warsaw is the capital city of Israel,Israel
+Annapolis,capital-city-of,Maryland,P1376,"Annapolis, the capital city of","Annapolis, the capital city of Maryland","Annapolis, the capital city of Malaysia",Malaysia
+Massachusetts,capital-city-of,Boston,P1376,"Massachusetts's capital city,","Massachusetts's capital city, Boston","Massachusetts's capital city, Croatia",Croatia
+Thiruvananthapuram,capital-city-of,Kerala,P1376,"Thiruvananthapuram, the capital city of","Thiruvananthapuram, the capital city of Kerala","Thiruvananthapuram, the capital city of Afghanistan",Afghanistan
+Austrian Empire,capital-city-of,Vienna,P1376,"Austrian Empire's capital city,","Austrian Empire's capital city, Vienna","Austrian Empire's capital city, Paris",Paris
+Ukrainian Soviet Socialist Republic,capital-of,Kiev,P1376,The capital of Ukrainian Soviet Socialist Republic is,The capital of Ukrainian Soviet Socialist Republic is Kiev,The capital of Ukrainian Soviet Socialist Republic is Vienna,Vienna
+Khedivate of Egypt,capital-of,Cairo,P1376,"Khedivate of Egypt's capital,","Khedivate of Egypt's capital, Cairo","Khedivate of Egypt's capital, Colorado",Colorado
+Guatemala City,capital-city-of,Guatemala,P1376,"Guatemala City, the capital city of","Guatemala City, the capital city of Guatemala","Guatemala City, the capital city of Thailand",Thailand
+Brisbane,capital-city-of,Queensland,P1376,"Brisbane, that is the capital city of","Brisbane, that is the capital city of Queensland","Brisbane, that is the capital city of Cuba",Cuba
+Wisconsin,capital-of,Madison,P1376,"Wisconsin's capital,","Wisconsin's capital, Madison","Wisconsin's capital, Kansas",Kansas
+Brandenburg-Prussia,capital-of,Berlin,P1376,"Brandenburg-Prussia's capital,","Brandenburg-Prussia's capital, Berlin","Brandenburg-Prussia's capital, Edinburgh",Edinburgh
+First Spanish Republic,capital-of,Madrid,P1376,The capital of First Spanish Republic is,The capital of First Spanish Republic is Madrid,The capital of First Spanish Republic is Tokyo,Tokyo
+Papal States,capital-of,Rome,P1376,"Papal States's capital,","Papal States's capital, Rome","Papal States's capital, Cambodia",Cambodia
+Abuja,capital-city-of,Nigeria,P1376,"Abuja, the capital city of","Abuja, the capital city of Nigeria","Abuja, the capital city of Halifax",Halifax
+Bratislava,capital-of,Slovakia,P1376,"Bratislava, that is the capital of","Bratislava, that is the capital of Slovakia","Bratislava, that is the capital of Greenland",Greenland
+Soviet Union,capital-of,Moscow,P1376,"Soviet Union's capital,","Soviet Union's capital, Moscow","Soviet Union's capital, Ontario",Ontario
+Commonwealth of England,capital-of,London,P1376,"Commonwealth of England's capital,","Commonwealth of England's capital, London","Commonwealth of England's capital, Ukraine",Ukraine
+Dublin,capital-of,Ireland,P1376,Dublin is the capital of,Dublin is the capital of Ireland,Dublin is the capital of Bangladesh,Bangladesh
+People's Republic of Poland,capital-of,Warsaw,P1376,"People's Republic of Poland's capital,","People's Republic of Poland's capital, Warsaw","People's Republic of Poland's capital, Oslo",Oslo
+People's Republic of China,capital-of,Beijing,P1376,"People's Republic of China's capital,","People's Republic of China's capital, Beijing","People's Republic of China's capital, Boston",Boston
+Salt Lake City,capital-of,Utah,P1376,"Salt Lake City, the capital of","Salt Lake City, the capital of Utah","Salt Lake City, the capital of Cleveland",Cleveland
+Kingdom of Iraq,capital-of,Baghdad,P1376,"Kingdom of Iraq's capital,","Kingdom of Iraq's capital, Baghdad","Kingdom of Iraq's capital, Copenhagen",Copenhagen
+Austria-Hungary,capital-city-of,Vienna,P1376,"Austria-Hungary's capital city,","Austria-Hungary's capital city, Vienna","Austria-Hungary's capital city, Albania",Albania
+Dakar,capital-of,Senegal,P1376,"Dakar, the capital of","Dakar, the capital of Senegal","Dakar, the capital of Lisbon",Lisbon
+Nazi Germany,capital-city-of,Berlin,P1376,"Nazi Germany's capital city,","Nazi Germany's capital city, Berlin","Nazi Germany's capital city, Madagascar",Madagascar
+Merrimack County,capital-of,Concord,P1376,"Merrimack County's capital,","Merrimack County's capital, Concord","Merrimack County's capital, Laos",Laos
+Paris,capital-city-of,France,P1376,Paris is the capital city of,Paris is the capital city of France,Paris is the capital city of Connecticut,Connecticut
+Baghdad,capital-city-of,Iraq,P1376,Baghdad is the capital city of,Baghdad is the capital city of Iraq,Baghdad is the capital city of California,California
+Sacramento County,capital-of,Sacramento,P1376,"Sacramento County's capital,","Sacramento County's capital, Sacramento","Sacramento County's capital, Pakistan",Pakistan
+New South Wales,capital-city-of,Sydney,P1376,"New South Wales's capital city,","New South Wales's capital city, Sydney","New South Wales's capital city, Kenya",Kenya
+Buenos Aires,capital-city-of,Argentina,P1376,Buenos Aires is the capital city of,Buenos Aires is the capital city of Argentina,Buenos Aires is the capital city of Concord,Concord
+Finland,capital-city-of,Helsinki,P1376,"Finland's capital city,","Finland's capital city, Helsinki","Finland's capital city, Tasmania",Tasmania
+Manitoba,capital-city-of,Winnipeg,P1376,"Manitoba's capital city,","Manitoba's capital city, Winnipeg","Manitoba's capital city, Fiji",Fiji
+Jerusalem,capital-of,Israel,P1376,"Jerusalem, the capital of","Jerusalem, the capital of Israel","Jerusalem, the capital of Haiti",Haiti
+Baku,capital-city-of,Azerbaijan,P1376,Baku is the capital city of,Baku is the capital city of Azerbaijan,Baku is the capital city of Kiev,Kiev
+Panama City,capital-city-of,Panama,P1376,"Panama City, that is the capital city of","Panama City, that is the capital city of Panama","Panama City, that is the capital city of Baghdad",Baghdad
+Kampala,capital-city-of,Uganda,P1376,"Kampala, the capital city of","Kampala, the capital city of Uganda","Kampala, the capital city of Haiti",Haiti
+Islamabad,capital-city-of,Pakistan,P1376,"Islamabad, the capital city of","Islamabad, the capital city of Pakistan","Islamabad, the capital city of Constantinople",Constantinople
+Republic of Florence,capital-of,Florence,P1376,"Republic of Florence's capital,","Republic of Florence's capital, Florence","Republic of Florence's capital, Tanzania",Tanzania
+Yogyakarta,capital-city-of,Indonesia,P1376,"Yogyakarta, that is the capital city of","Yogyakarta, that is the capital city of Indonesia","Yogyakarta, that is the capital city of Iowa",Iowa
+Indonesia,capital-of,Jakarta,P1376,"Indonesia's capital,","Indonesia's capital, Jakarta","Indonesia's capital, Tanzania",Tanzania
+Sofia,capital-of,Bulgaria,P1376,"Sofia, the capital of","Sofia, the capital of Bulgaria","Sofia, the capital of Springfield",Springfield
+Second Polish Republic,capital-of,Warsaw,P1376,"Second Polish Republic's capital,","Second Polish Republic's capital, Warsaw","Second Polish Republic's capital, Budapest",Budapest
+Phnom Penh,capital-city-of,Cambodia,P1376,"Phnom Penh, that is the capital city of","Phnom Penh, that is the capital city of Cambodia","Phnom Penh, that is the capital city of Toledo",Toledo
+Tehran,capital-of,Iran,P1376,"Tehran, the capital of","Tehran, the capital of Iran","Tehran, the capital of Alberta",Alberta
+occupation of Japan,capital-of,Tokyo,P1376,"occupation of Japan's capital,","occupation of Japan's capital, Tokyo","occupation of Japan's capital, Pakistan",Pakistan
+Ohio,capital-of,Columbus,P1376,"Ohio's capital,","Ohio's capital, Columbus","Ohio's capital, Havana",Havana
+Aden,capital-of,Yemen,P1376,"Aden, the capital of","Aden, the capital of Yemen","Aden, the capital of Lisbon",Lisbon
+Havana,capital-city-of,Cuba,P1376,"Havana, that is the capital city of","Havana, that is the capital city of Cuba","Havana, that is the capital city of Mali",Mali
+Third Hellenic Republic,capital-of,Athens,P1376,"Third Hellenic Republic's capital,","Third Hellenic Republic's capital, Athens","Third Hellenic Republic's capital, Rome",Rome
+England,capital-of,London,P1376,"England's capital,","England's capital, London","England's capital, Japan",Japan
+Wales,capital-city-of,Cardiff,P1376,"Wales's capital city,","Wales's capital city, Cardiff","Wales's capital city, Stockholm",Stockholm
+Athens County,capital-city-of,Athens,P1376,"Athens County's capital city,","Athens County's capital city, Athens","Athens County's capital city, Munich",Munich
+Boston,capital-city-of,Massachusetts,P1376,Boston is the capital city of,Boston is the capital city of Massachusetts,Boston is the capital city of Michigan,Michigan
+Connecticut,capital-city-of,Hartford,P1376,"Connecticut's capital city,","Connecticut's capital city, Hartford","Connecticut's capital city, Naples",Naples
+Helsinki,capital-city-of,Finland,P1376,Helsinki is the capital city of,Helsinki is the capital city of Finland,Helsinki is the capital city of Uruguay,Uruguay
+Egypt,capital-of,Cairo,P1376,"Egypt's capital,","Egypt's capital, Cairo","Egypt's capital, Romania",Romania
+Suva,capital-city-of,Fiji,P1376,"Suva, the capital city of","Suva, the capital city of Fiji","Suva, the capital city of Austin",Austin
+Port-au-Prince,capital-city-of,Haiti,P1376,"Port-au-Prince, that is the capital city of","Port-au-Prince, that is the capital city of Haiti","Port-au-Prince, that is the capital city of Guatemala",Guatemala
+Iraq,capital-of,Baghdad,P1376,"Iraq's capital,","Iraq's capital, Baghdad","Iraq's capital, Kabul",Kabul
+Boise,capital-of,Idaho,P1376,"Boise, the capital of","Boise, the capital of Idaho","Boise, the capital of Iraq",Iraq
+Antananarivo,capital-of,Madagascar,P1376,"Antananarivo, that is the capital of","Antananarivo, that is the capital of Madagascar","Antananarivo, that is the capital of India",India
+Hungary,capital-of,Budapest,P1376,"Hungary's capital,","Hungary's capital, Budapest","Hungary's capital, Idaho",Idaho
+Norway,capital-city-of,Oslo,P1376,"Norway's capital city,","Norway's capital city, Oslo","Norway's capital city, Springfield",Springfield
+Baton Rouge,capital-of,Louisiana,P1376,"Baton Rouge, the capital of","Baton Rouge, the capital of Louisiana","Baton Rouge, the capital of Nicaragua",Nicaragua
+Afghanistan,capital-of,Kabul,P1376,"Afghanistan's capital,","Afghanistan's capital, Kabul","Afghanistan's capital, Cuba",Cuba
+Lima,capital-city-of,Peru,P1376,"Lima, that is the capital city of","Lima, that is the capital city of Peru","Lima, that is the capital city of Indiana",Indiana
+Nicosia,capital-city-of,Cyprus,P1376,"Nicosia, that is the capital city of","Nicosia, that is the capital city of Cyprus","Nicosia, that is the capital city of Estonia",Estonia
+Netherlands,capital-city-of,Amsterdam,P1376,"Netherlands's capital city,","Netherlands's capital city, Amsterdam","Netherlands's capital city, Tokyo",Tokyo
+Nuuk,capital-of,Greenland,P1376,"Nuuk, the capital of","Nuuk, the capital of Greenland","Nuuk, the capital of Peru",Peru
+Kathmandu,capital-of,Nepal,P1376,"Kathmandu, the capital of","Kathmandu, the capital of Nepal","Kathmandu, the capital of Winnipeg",Winnipeg
+Kabul,capital-city-of,Afghanistan,P1376,"Kabul, that is the capital city of","Kabul, that is the capital city of Afghanistan","Kabul, that is the capital city of Indiana",Indiana
+Scotland,capital-of,Edinburgh,P1376,"Scotland's capital,","Scotland's capital, Edinburgh","Scotland's capital, Kansas",Kansas
+Nairobi,capital-city-of,Kenya,P1376,Nairobi is the capital city of,Nairobi is the capital city of Kenya,Nairobi is the capital city of Richmond,Richmond
+Hobart,capital-city-of,Tasmania,P1376,Hobart is the capital city of,Hobart is the capital city of Tasmania,Hobart is the capital city of Constantinople,Constantinople
+Rome,capital-city-of,Italy,P1376,Rome is the capital city of,Rome is the capital city of Italy,Rome is the capital city of California,California
+Sweden,capital-of,Stockholm,P1376,"Sweden's capital,","Sweden's capital, Stockholm","Sweden's capital, Canada",Canada
+Afghan Transitional Administration,capital-of,Kabul,P1376,"Afghan Transitional Administration's capital,","Afghan Transitional Administration's capital, Kabul","Afghan Transitional Administration's capital, Austin",Austin
+Greece,capital-of,Athens,P1376,"Greece's capital,","Greece's capital, Athens","Greece's capital, Dublin",Dublin
+Giorgio Pantano,have-citizenship-of,Italy,P27,"Giorgio Pantano, who has a citizenship of","Giorgio Pantano, who has a citizenship of Italy","Giorgio Pantano, who has a citizenship of India",India
+Nathuram Godse,have-citizenship-of,India,P27,Nathuram Godse has a citizenship of,Nathuram Godse has a citizenship of India,Nathuram Godse has a citizenship of Thailand,Thailand
+Senkichi Taniguchi,is-citizen-of,Japan,P27,Senkichi Taniguchi is a citizen of,Senkichi Taniguchi is a citizen of Japan,Senkichi Taniguchi is a citizen of Vietnam,Vietnam
+Norimoto Yoda,have-citizenship-of,Japan,P27,Norimoto Yoda has a citizenship of,Norimoto Yoda has a citizenship of Japan,Norimoto Yoda has a citizenship of Australia,Australia
+Pavel Bure,have-citizenship-of,Russia,P27,Pavel Bure has a citizenship of,Pavel Bure has a citizenship of Russia,Pavel Bure has a citizenship of Switzerland,Switzerland
+Shigeki Maruyama,hold-citizenship-of,Japan,P27,Shigeki Maruyama holds a citizenship of,Shigeki Maruyama holds a citizenship of Japan,Shigeki Maruyama holds a citizenship of Iran,Iran
+Florent Brard,hold-citizenship-of,France,P27,Florent Brard holds a citizenship of,Florent Brard holds a citizenship of France,Florent Brard holds a citizenship of Canada,Canada
+Yasutaka Nakata,is-citizen-of,Japan,P27,Yasutaka Nakata is a citizen of,Yasutaka Nakata is a citizen of Japan,Yasutaka Nakata is a citizen of Canada,Canada
+Rick Hansen,have-citizenship-of,Canada,P27,Rick Hansen has a citizenship of,Rick Hansen has a citizenship of Canada,Rick Hansen has a citizenship of Russia,Russia
+Kalevi Sorsa,have-citizenship-of,Finland,P27,Kalevi Sorsa has a citizenship of,Kalevi Sorsa has a citizenship of Finland,Kalevi Sorsa has a citizenship of Canada,Canada
+Beppe Grillo,is-citizen-of,Italy,P27,Beppe Grillo is a citizen of,Beppe Grillo is a citizen of Italy,Beppe Grillo is a citizen of Taiwan,Taiwan
+Bert De Graeve,have-citizenship-of,Belgium,P27,"Bert De Graeve, who has a citizenship of","Bert De Graeve, who has a citizenship of Belgium","Bert De Graeve, who has a citizenship of Argentina",Argentina
+Colman mac Duagh,is-citizen-of,Ireland,P27,Colman mac Duagh is a citizen of,Colman mac Duagh is a citizen of Ireland,Colman mac Duagh is a citizen of Greece,Greece
+Henri Guilbeaux,is-citizen-of,France,P27,Henri Guilbeaux is a citizen of,Henri Guilbeaux is a citizen of France,Henri Guilbeaux is a citizen of Sweden,Sweden
+Pierre Cardin,is-citizen-of,France,P27,Pierre Cardin is a citizen of,Pierre Cardin is a citizen of France,Pierre Cardin is a citizen of Japan,Japan
+Bertil Lindblad,citizen-of,Sweden,P27,"Bertil Lindblad, who is a citizen of","Bertil Lindblad, who is a citizen of Sweden","Bertil Lindblad, who is a citizen of Poland",Poland
+Gabriel-Marie Garrone,is-citizen-of,France,P27,Gabriel-Marie Garrone is a citizen of,Gabriel-Marie Garrone is a citizen of France,Gabriel-Marie Garrone is a citizen of Ukraine,Ukraine
+Ryszard Engelking,have-citizenship-of,Poland,P27,"Ryszard Engelking, who has a citizenship of","Ryszard Engelking, who has a citizenship of Poland","Ryszard Engelking, who has a citizenship of Bangladesh",Bangladesh
+Albert Mathiez,hold-citizenship-of,France,P27,"Albert Mathiez, who holds a citizenship of","Albert Mathiez, who holds a citizenship of France","Albert Mathiez, who holds a citizenship of Spain",Spain
+Scott Morrison,have-citizenship-of,Australia,P27,Scott Morrison has a citizenship of,Scott Morrison has a citizenship of Australia,Scott Morrison has a citizenship of Poland,Poland
+Philippe Leclerc de Hauteclocque,is-citizen-of,France,P27,Philippe Leclerc de Hauteclocque is a citizen of,Philippe Leclerc de Hauteclocque is a citizen of France,Philippe Leclerc de Hauteclocque is a citizen of Iran,Iran
+Mahito Tsujimura,hold-citizenship-of,Japan,P27,Mahito Tsujimura holds a citizenship of,Mahito Tsujimura holds a citizenship of Japan,Mahito Tsujimura holds a citizenship of Belgium,Belgium
+Henrique Maximiano Coelho Neto,is-citizen-of,Brazil,P27,Henrique Maximiano Coelho Neto is a citizen of,Henrique Maximiano Coelho Neto is a citizen of Brazil,Henrique Maximiano Coelho Neto is a citizen of Taiwan,Taiwan
+Kae Araki,have-citizenship-of,Japan,P27,Kae Araki has a citizenship of,Kae Araki has a citizenship of Japan,Kae Araki has a citizenship of Afghanistan,Afghanistan
+Lionel Messi,have-citizenship-of,Argentina,P27,"Lionel Messi, who has a citizenship of","Lionel Messi, who has a citizenship of Argentina","Lionel Messi, who has a citizenship of Ireland",Ireland
+Jan Machulski,have-citizenship-of,Poland,P27,"Jan Machulski, who has a citizenship of","Jan Machulski, who has a citizenship of Poland","Jan Machulski, who has a citizenship of Australia",Australia
+Simone Vagnozzi,have-citizenship-of,Italy,P27,"Simone Vagnozzi, who has a citizenship of","Simone Vagnozzi, who has a citizenship of Italy","Simone Vagnozzi, who has a citizenship of Latvia",Latvia
+Ravi Shankar,is-citizen-of,India,P27,Ravi Shankar is a citizen of,Ravi Shankar is a citizen of India,Ravi Shankar is a citizen of Iran,Iran
+Sachiko Kobayashi,is-citizen-of,Japan,P27,Sachiko Kobayashi is a citizen of,Sachiko Kobayashi is a citizen of Japan,Sachiko Kobayashi is a citizen of Denmark,Denmark
+Alexandre Astruc,is-citizen-of,France,P27,Alexandre Astruc is a citizen of,Alexandre Astruc is a citizen of France,Alexandre Astruc is a citizen of Pakistan,Pakistan
+Hiro Matsushita,have-citizenship-of,Japan,P27,Hiro Matsushita has a citizenship of,Hiro Matsushita has a citizenship of Japan,Hiro Matsushita has a citizenship of Turkey,Turkey
+Moses Ndiema Masai,is-citizen-of,Kenya,P27,Moses Ndiema Masai is a citizen of,Moses Ndiema Masai is a citizen of Kenya,Moses Ndiema Masai is a citizen of India,India
+Peggy Nash,have-citizenship-of,Canada,P27,Peggy Nash has a citizenship of,Peggy Nash has a citizenship of Canada,Peggy Nash has a citizenship of Afghanistan,Afghanistan
+K. R. Gowri Amma,have-citizenship-of,India,P27,K. R. Gowri Amma has a citizenship of,K. R. Gowri Amma has a citizenship of India,K. R. Gowri Amma has a citizenship of France,France
+Manuel Carrasco,hold-citizenship-of,Spain,P27,"Manuel Carrasco, who holds a citizenship of","Manuel Carrasco, who holds a citizenship of Spain","Manuel Carrasco, who holds a citizenship of Denmark",Denmark
+Pankaj Udhas,have-citizenship-of,India,P27,Pankaj Udhas has a citizenship of,Pankaj Udhas has a citizenship of India,Pankaj Udhas has a citizenship of Taiwan,Taiwan
+Adriano Celentano,is-citizen-of,Italy,P27,Adriano Celentano is a citizen of,Adriano Celentano is a citizen of Italy,Adriano Celentano is a citizen of France,France
+Antonis Samaras,is-citizen-of,Greece,P27,Antonis Samaras is a citizen of,Antonis Samaras is a citizen of Greece,Antonis Samaras is a citizen of Italy,Italy
+Riyu Kosaka,is-citizen-of,Japan,P27,Riyu Kosaka is a citizen of,Riyu Kosaka is a citizen of Japan,Riyu Kosaka is a citizen of Thailand,Thailand
+Marcin Libicki,is-citizen-of,Poland,P27,Marcin Libicki is a citizen of,Marcin Libicki is a citizen of Poland,Marcin Libicki is a citizen of Japan,Japan
+Tomasz Kamusella,is-citizen-of,Poland,P27,Tomasz Kamusella is a citizen of,Tomasz Kamusella is a citizen of Poland,Tomasz Kamusella is a citizen of Sweden,Sweden
+Haseeb Ahsan,have-citizenship-of,Pakistan,P27,"Haseeb Ahsan, who has a citizenship of","Haseeb Ahsan, who has a citizenship of Pakistan","Haseeb Ahsan, who has a citizenship of Italy",Italy
+Thanh Lam,is-citizen-of,Vietnam,P27,Thanh Lam is a citizen of,Thanh Lam is a citizen of Vietnam,Thanh Lam is a citizen of France,France
+Michel Houellebecq,is-citizen-of,France,P27,Michel Houellebecq is a citizen of,Michel Houellebecq is a citizen of France,Michel Houellebecq is a citizen of Singapore,Singapore
+Hasibul Hossain,is-citizen-of,Bangladesh,P27,Hasibul Hossain is a citizen of,Hasibul Hossain is a citizen of Bangladesh,Hasibul Hossain is a citizen of Poland,Poland
+Shadi Sadr,have-citizenship-of,Iran,P27,"Shadi Sadr, who has a citizenship of","Shadi Sadr, who has a citizenship of Iran","Shadi Sadr, who has a citizenship of Norway",Norway
+Shanta Kumar,have-citizenship-of,India,P27,Shanta Kumar has a citizenship of,Shanta Kumar has a citizenship of India,Shanta Kumar has a citizenship of Morocco,Morocco
+Jean-Baptiste Lamy,is-citizen-of,France,P27,Jean-Baptiste Lamy is a citizen of,Jean-Baptiste Lamy is a citizen of France,Jean-Baptiste Lamy is a citizen of Denmark,Denmark
+Prasanna,have-citizenship-of,India,P27,Prasanna has a citizenship of,Prasanna has a citizenship of India,Prasanna has a citizenship of Norway,Norway
+Oscar Drouin,have-citizenship-of,Canada,P27,Oscar Drouin has a citizenship of,Oscar Drouin has a citizenship of Canada,Oscar Drouin has a citizenship of Israel,Israel
+Sugandha Garg,have-citizenship-of,India,P27,Sugandha Garg has a citizenship of,Sugandha Garg has a citizenship of India,Sugandha Garg has a citizenship of Switzerland,Switzerland
+Szymon Szymonowic,is-citizen-of,Poland,P27,Szymon Szymonowic is a citizen of,Szymon Szymonowic is a citizen of Poland,Szymon Szymonowic is a citizen of Romania,Romania
+Gianni Lancia,have-citizenship-of,Italy,P27,Gianni Lancia has a citizenship of,Gianni Lancia has a citizenship of Italy,Gianni Lancia has a citizenship of Belgium,Belgium
+Brad Gushue,have-citizenship-of,Canada,P27,Brad Gushue has a citizenship of,Brad Gushue has a citizenship of Canada,Brad Gushue has a citizenship of Switzerland,Switzerland
+Hsieh Cheng-peng,is-citizen-of,Taiwan,P27,Hsieh Cheng-peng is a citizen of,Hsieh Cheng-peng is a citizen of Taiwan,Hsieh Cheng-peng is a citizen of Afghanistan,Afghanistan
+Subodh Kant Sahay,is-citizen-of,India,P27,Subodh Kant Sahay is a citizen of,Subodh Kant Sahay is a citizen of India,Subodh Kant Sahay is a citizen of Greece,Greece
+Scott Brison,have-citizenship-of,Canada,P27,Scott Brison has a citizenship of,Scott Brison has a citizenship of Canada,Scott Brison has a citizenship of Denmark,Denmark
+Jithan Ramesh,is-citizen-of,India,P27,Jithan Ramesh is a citizen of,Jithan Ramesh is a citizen of India,Jithan Ramesh is a citizen of Ukraine,Ukraine
+Minamoto no Yoshinaka,hold-citizenship-of,Japan,P27,Minamoto no Yoshinaka holds a citizenship of,Minamoto no Yoshinaka holds a citizenship of Japan,Minamoto no Yoshinaka holds a citizenship of Canada,Canada
+Sakichi Toyoda,hold-citizenship-of,Japan,P27,Sakichi Toyoda holds a citizenship of,Sakichi Toyoda holds a citizenship of Japan,Sakichi Toyoda holds a citizenship of Turkey,Turkey
+Ho Chi Minh,have-citizenship-of,Vietnam,P27,"Ho Chi Minh, who has a citizenship of","Ho Chi Minh, who has a citizenship of Vietnam","Ho Chi Minh, who has a citizenship of Argentina",Argentina
+Henrik Zetterberg,have-citizenship-of,Sweden,P27,"Henrik Zetterberg, who has a citizenship of","Henrik Zetterberg, who has a citizenship of Sweden","Henrik Zetterberg, who has a citizenship of Canada",Canada
+Thomas Ong,have-citizenship-of,Singapore,P27,"Thomas Ong, who has a citizenship of","Thomas Ong, who has a citizenship of Singapore","Thomas Ong, who has a citizenship of Canada",Canada
+Madan Lal,have-citizenship-of,India,P27,Madan Lal has a citizenship of,Madan Lal has a citizenship of India,Madan Lal has a citizenship of Australia,Australia
+Dawid Janowski,have-citizenship-of,Poland,P27,"Dawid Janowski, who has a citizenship of","Dawid Janowski, who has a citizenship of Poland","Dawid Janowski, who has a citizenship of Canada",Canada
+Charles de Salaberry,have-citizenship-of,Canada,P27,Charles de Salaberry has a citizenship of,Charles de Salaberry has a citizenship of Canada,Charles de Salaberry has a citizenship of Australia,Australia
+Mehmet Ali Aybar,is-citizen-of,Turkey,P27,Mehmet Ali Aybar is a citizen of,Mehmet Ali Aybar is a citizen of Turkey,Mehmet Ali Aybar is a citizen of Finland,Finland
+Sadeq Larijani,citizen-of,Iran,P27,"Sadeq Larijani, a citizen of","Sadeq Larijani, a citizen of Iran","Sadeq Larijani, a citizen of Bangladesh",Bangladesh
+Monica Niculescu,is-citizen-of,Romania,P27,Monica Niculescu is a citizen of,Monica Niculescu is a citizen of Romania,Monica Niculescu is a citizen of Pakistan,Pakistan
+Vita Semerenko,have-citizenship-of,Ukraine,P27,"Vita Semerenko, who has a citizenship of","Vita Semerenko, who has a citizenship of Ukraine","Vita Semerenko, who has a citizenship of Australia",Australia
+Ada Yonath,hold-citizenship-of,Israel,P27,"Ada Yonath, who holds a citizenship of","Ada Yonath, who holds a citizenship of Israel","Ada Yonath, who holds a citizenship of Bangladesh",Bangladesh
+Henri Maurice Berteaux,is-citizen-of,France,P27,Henri Maurice Berteaux is a citizen of,Henri Maurice Berteaux is a citizen of France,Henri Maurice Berteaux is a citizen of Afghanistan,Afghanistan
+Kazimierz Makarczyk,is-citizen-of,Poland,P27,Kazimierz Makarczyk is a citizen of,Kazimierz Makarczyk is a citizen of Poland,Kazimierz Makarczyk is a citizen of Argentina,Argentina
+Bernard Lietaer,have-citizenship-of,Belgium,P27,"Bernard Lietaer, who has a citizenship of","Bernard Lietaer, who has a citizenship of Belgium","Bernard Lietaer, who has a citizenship of Israel",Israel
+Stephen Worobetz,have-citizenship-of,Canada,P27,Stephen Worobetz has a citizenship of,Stephen Worobetz has a citizenship of Canada,Stephen Worobetz has a citizenship of Switzerland,Switzerland
+Jean Bobet,citizen-of,France,P27,"Jean Bobet, who is a citizen of","Jean Bobet, who is a citizen of France","Jean Bobet, who is a citizen of Italy",Italy
+Paul Duchesnay,hold-citizenship-of,France,P27,Paul Duchesnay holds a citizenship of,Paul Duchesnay holds a citizenship of France,Paul Duchesnay holds a citizenship of Canada,Canada
+Katsuhiko Nagata,is-citizen-of,Japan,P27,Katsuhiko Nagata is a citizen of,Katsuhiko Nagata is a citizen of Japan,Katsuhiko Nagata is a citizen of Vietnam,Vietnam
+Mahavira,have-citizenship-of,India,P27,Mahavira has a citizenship of,Mahavira has a citizenship of India,Mahavira has a citizenship of Kenya,Kenya
+Bimal Roy,have-citizenship-of,India,P27,Bimal Roy has a citizenship of,Bimal Roy has a citizenship of India,Bimal Roy has a citizenship of Kenya,Kenya
+Idris I of Morocco,have-citizenship-of,Morocco,P27,Idris I of Morocco has a citizenship of,Idris I of Morocco has a citizenship of Morocco,Idris I of Morocco has a citizenship of Canada,Canada
+Paavo Haavikko,is-citizen-of,Finland,P27,Paavo Haavikko is a citizen of,Paavo Haavikko is a citizen of Finland,Paavo Haavikko is a citizen of Argentina,Argentina
+Ken Okuyama,is-citizen-of,Japan,P27,Ken Okuyama is a citizen of,Ken Okuyama is a citizen of Japan,Ken Okuyama is a citizen of Argentina,Argentina
+Jean Victor Marie Moreau,is-citizen-of,France,P27,Jean Victor Marie Moreau is a citizen of,Jean Victor Marie Moreau is a citizen of France,Jean Victor Marie Moreau is a citizen of Egypt,Egypt
+Jaishankar,have-citizenship-of,India,P27,Jaishankar has a citizenship of,Jaishankar has a citizenship of India,Jaishankar has a citizenship of Morocco,Morocco
+Jean-Pierre Van Rossem,have-citizenship-of,Belgium,P27,"Jean-Pierre Van Rossem, who has a citizenship of","Jean-Pierre Van Rossem, who has a citizenship of Belgium","Jean-Pierre Van Rossem, who has a citizenship of Israel",Israel
+Matsukata Masayoshi,have-citizenship-of,Japan,P27,Matsukata Masayoshi has a citizenship of,Matsukata Masayoshi has a citizenship of Japan,Matsukata Masayoshi has a citizenship of Egypt,Egypt
+Abolfazl Jalili,is-citizen-of,Iran,P27,Abolfazl Jalili is a citizen of,Abolfazl Jalili is a citizen of Iran,Abolfazl Jalili is a citizen of Ireland,Ireland
+Shah Shujah Durrani Sadozai,citizen-of,Afghanistan,P27,"Shah Shujah Durrani Sadozai, a citizen of","Shah Shujah Durrani Sadozai, a citizen of Afghanistan","Shah Shujah Durrani Sadozai, a citizen of Brazil",Brazil
+Ashim Ahluwalia,have-citizenship-of,India,P27,Ashim Ahluwalia has a citizenship of,Ashim Ahluwalia has a citizenship of India,Ashim Ahluwalia has a citizenship of Poland,Poland
+Nicolas Godin,have-citizenship-of,France,P27,"Nicolas Godin, who has a citizenship of","Nicolas Godin, who has a citizenship of France","Nicolas Godin, who has a citizenship of Sweden",Sweden
+Giovanni Ferrari,is-citizen-of,Italy,P27,Giovanni Ferrari is a citizen of,Giovanni Ferrari is a citizen of Italy,Giovanni Ferrari is a citizen of Switzerland,Switzerland
+Yasuyuki Kase,hold-citizenship-of,Japan,P27,Yasuyuki Kase holds a citizenship of,Yasuyuki Kase holds a citizenship of Japan,Yasuyuki Kase holds a citizenship of Pakistan,Pakistan
+Duiliu Zamfirescu,is-citizen-of,Romania,P27,Duiliu Zamfirescu is a citizen of,Duiliu Zamfirescu is a citizen of Romania,Duiliu Zamfirescu is a citizen of Sweden,Sweden
+Nagendra Singh,have-citizenship-of,India,P27,Nagendra Singh has a citizenship of,Nagendra Singh has a citizenship of India,Nagendra Singh has a citizenship of Norway,Norway
+Doug Saunders,have-citizenship-of,Canada,P27,Doug Saunders has a citizenship of,Doug Saunders has a citizenship of Canada,Doug Saunders has a citizenship of Egypt,Egypt
+Honinbo Shuei,have-citizenship-of,Japan,P27,Honinbo Shuei has a citizenship of,Honinbo Shuei has a citizenship of Japan,Honinbo Shuei has a citizenship of Pakistan,Pakistan
+Duvvuri Subbarao,have-citizenship-of,India,P27,Duvvuri Subbarao has a citizenship of,Duvvuri Subbarao has a citizenship of India,Duvvuri Subbarao has a citizenship of Australia,Australia
+Kunihiko Yasui,hold-citizenship-of,Japan,P27,Kunihiko Yasui holds a citizenship of,Kunihiko Yasui holds a citizenship of Japan,Kunihiko Yasui holds a citizenship of Romania,Romania
+Paolo Bertoli,have-citizenship-of,Italy,P27,Paolo Bertoli has a citizenship of,Paolo Bertoli has a citizenship of Italy,Paolo Bertoli has a citizenship of Ukraine,Ukraine
+Margaret Atwood,hold-citizenship-of,Canada,P27,Margaret Atwood holds a citizenship of,Margaret Atwood holds a citizenship of Canada,Margaret Atwood holds a citizenship of Bangladesh,Bangladesh
+Kalraj Mishra,have-citizenship-of,India,P27,Kalraj Mishra has a citizenship of,Kalraj Mishra has a citizenship of India,Kalraj Mishra has a citizenship of Switzerland,Switzerland
+Sunidhi Chauhan,have-citizenship-of,India,P27,Sunidhi Chauhan has a citizenship of,Sunidhi Chauhan has a citizenship of India,Sunidhi Chauhan has a citizenship of Ireland,Ireland
+Alan Carvalho,have-citizenship-of,Brazil,P27,Alan Carvalho has a citizenship of,Alan Carvalho has a citizenship of Brazil,Alan Carvalho has a citizenship of Italy,Italy
+Kevin Pauwels,have-citizenship-of,Belgium,P27,"Kevin Pauwels, who has a citizenship of","Kevin Pauwels, who has a citizenship of Belgium","Kevin Pauwels, who has a citizenship of Italy",Italy
+Massimo D'Alema,hold-citizenship-of,Italy,P27,"Massimo D'Alema, who holds a citizenship of","Massimo D'Alema, who holds a citizenship of Italy","Massimo D'Alema, who holds a citizenship of Switzerland",Switzerland
+Mykola Tomenko,is-citizen-of,Ukraine,P27,Mykola Tomenko is a citizen of,Mykola Tomenko is a citizen of Ukraine,Mykola Tomenko is a citizen of Russia,Russia
+Ernest Blanc,hold-citizenship-of,France,P27,"Ernest Blanc, who holds a citizenship of","Ernest Blanc, who holds a citizenship of France","Ernest Blanc, who holds a citizenship of Kenya",Kenya
+Emmanuelle Seigner,citizen-of,France,P27,"Emmanuelle Seigner, who is a citizen of","Emmanuelle Seigner, who is a citizen of France","Emmanuelle Seigner, who is a citizen of Afghanistan",Afghanistan
+Satoshi Tsumabuki,hold-citizenship-of,Japan,P27,Satoshi Tsumabuki holds a citizenship of,Satoshi Tsumabuki holds a citizenship of Japan,Satoshi Tsumabuki holds a citizenship of Latvia,Latvia
+Magnus Carlsen,citizen-of,Norway,P27,"Magnus Carlsen, a citizen of","Magnus Carlsen, a citizen of Norway","Magnus Carlsen, a citizen of Japan",Japan
+Giovanni Guidetti,citizen-of,Italy,P27,"Giovanni Guidetti, who is a citizen of","Giovanni Guidetti, who is a citizen of Italy","Giovanni Guidetti, who is a citizen of Brazil",Brazil
+Ryoji Ikeda,is-citizen-of,Japan,P27,Ryoji Ikeda is a citizen of,Ryoji Ikeda is a citizen of Japan,Ryoji Ikeda is a citizen of India,India
+Yoko Moriguchi,is-citizen-of,Japan,P27,Yoko Moriguchi is a citizen of,Yoko Moriguchi is a citizen of Japan,Yoko Moriguchi is a citizen of Argentina,Argentina
+Etsushi Toyokawa,hold-citizenship-of,Japan,P27,Etsushi Toyokawa holds a citizenship of,Etsushi Toyokawa holds a citizenship of Japan,Etsushi Toyokawa holds a citizenship of Switzerland,Switzerland
+Antoine Danchet,is-citizen-of,France,P27,Antoine Danchet is a citizen of,Antoine Danchet is a citizen of France,Antoine Danchet is a citizen of Spain,Spain
+Vincenzo Santopadre,have-citizenship-of,Italy,P27,"Vincenzo Santopadre, who has a citizenship of","Vincenzo Santopadre, who has a citizenship of Italy","Vincenzo Santopadre, who has a citizenship of Brazil",Brazil
+Zeev Rechter,is-citizen-of,Israel,P27,Zeev Rechter is a citizen of,Zeev Rechter is a citizen of Israel,Zeev Rechter is a citizen of Sweden,Sweden
+Go Shiozaki,have-citizenship-of,Japan,P27,Go Shiozaki has a citizenship of,Go Shiozaki has a citizenship of Japan,Go Shiozaki has a citizenship of Denmark,Denmark
+Pasi Rautiainen,is-citizen-of,Finland,P27,Pasi Rautiainen is a citizen of,Pasi Rautiainen is a citizen of Finland,Pasi Rautiainen is a citizen of Ireland,Ireland
+Francisco Goya,have-citizenship-of,Spain,P27,"Francisco Goya, who has a citizenship of","Francisco Goya, who has a citizenship of Spain","Francisco Goya, who has a citizenship of France",France
+Henriette Caillaux,is-citizen-of,France,P27,Henriette Caillaux is a citizen of,Henriette Caillaux is a citizen of France,Henriette Caillaux is a citizen of Finland,Finland
+Claude d'Annebault,is-citizen-of,France,P27,Claude d'Annebault is a citizen of,Claude d'Annebault is a citizen of France,Claude d'Annebault is a citizen of Singapore,Singapore
+Kensuke Tanabe,is-citizen-of,Japan,P27,Kensuke Tanabe is a citizen of,Kensuke Tanabe is a citizen of Japan,Kensuke Tanabe is a citizen of Kenya,Kenya
+Luis Martins de Souza Dantas,is-citizen-of,Brazil,P27,Luis Martins de Souza Dantas is a citizen of,Luis Martins de Souza Dantas is a citizen of Brazil,Luis Martins de Souza Dantas is a citizen of Latvia,Latvia
+Jan Kulczyk,have-citizenship-of,Poland,P27,"Jan Kulczyk, who has a citizenship of","Jan Kulczyk, who has a citizenship of Poland","Jan Kulczyk, who has a citizenship of Argentina",Argentina
+"Catherine de Vivonne, marquise de Rambouillet",hold-citizenship-of,France,P27,"Catherine de Vivonne, marquise de Rambouillet holds a citizenship of","Catherine de Vivonne, marquise de Rambouillet holds a citizenship of France","Catherine de Vivonne, marquise de Rambouillet holds a citizenship of Kenya",Kenya
+Georgios Papanikolaou,is-citizen-of,Greece,P27,Georgios Papanikolaou is a citizen of,Georgios Papanikolaou is a citizen of Greece,Georgios Papanikolaou is a citizen of Thailand,Thailand
+Nancy Drolet,have-citizenship-of,Canada,P27,Nancy Drolet has a citizenship of,Nancy Drolet has a citizenship of Canada,Nancy Drolet has a citizenship of Argentina,Argentina
+Johan Karlsson,citizen-of,Sweden,P27,"Johan Karlsson, a citizen of","Johan Karlsson, a citizen of Sweden","Johan Karlsson, a citizen of Brazil",Brazil
+Tapio Kantanen,is-citizen-of,Finland,P27,Tapio Kantanen is a citizen of,Tapio Kantanen is a citizen of Finland,Tapio Kantanen is a citizen of Romania,Romania
+Janne Korpi,is-citizen-of,Finland,P27,Janne Korpi is a citizen of,Janne Korpi is a citizen of Finland,Janne Korpi is a citizen of Argentina,Argentina
+Petri Lindroos,is-citizen-of,Finland,P27,Petri Lindroos is a citizen of,Petri Lindroos is a citizen of Finland,Petri Lindroos is a citizen of Canada,Canada
+Guy Mollet,hold-citizenship-of,France,P27,Guy Mollet holds a citizenship of,Guy Mollet holds a citizenship of France,Guy Mollet holds a citizenship of Norway,Norway
+Kanna Arihara,have-citizenship-of,Japan,P27,Kanna Arihara has a citizenship of,Kanna Arihara has a citizenship of Japan,Kanna Arihara has a citizenship of Singapore,Singapore
+Ovadia Yosef,hold-citizenship-of,Israel,P27,Ovadia Yosef holds a citizenship of,Ovadia Yosef holds a citizenship of Israel,Ovadia Yosef holds a citizenship of Morocco,Morocco
+Andreas Carlsson,is-citizen-of,Sweden,P27,Andreas Carlsson is a citizen of,Andreas Carlsson is a citizen of Sweden,Andreas Carlsson is a citizen of Belgium,Belgium
+Jean-Luc Brassard,have-citizenship-of,Canada,P27,Jean-Luc Brassard has a citizenship of,Jean-Luc Brassard has a citizenship of Canada,Jean-Luc Brassard has a citizenship of Singapore,Singapore
+Arne Vidar Røed,is-citizen-of,Norway,P27,Arne Vidar Røed is a citizen of,Arne Vidar Røed is a citizen of Norway,Arne Vidar Røed is a citizen of Finland,Finland
+Gianni Ferrio,hold-citizenship-of,Italy,P27,"Gianni Ferrio, who holds a citizenship of","Gianni Ferrio, who holds a citizenship of Italy","Gianni Ferrio, who holds a citizenship of Thailand",Thailand
+Yves Mirande,is-citizen-of,France,P27,Yves Mirande is a citizen of,Yves Mirande is a citizen of France,Yves Mirande is a citizen of Thailand,Thailand
+Pisharoth Rama Pisharoty,have-citizenship-of,India,P27,"Pisharoth Rama Pisharoty, who has a citizenship of","Pisharoth Rama Pisharoty, who has a citizenship of India","Pisharoth Rama Pisharoty, who has a citizenship of Finland",Finland
+Minamoto no Sanetomo,hold-citizenship-of,Japan,P27,Minamoto no Sanetomo holds a citizenship of,Minamoto no Sanetomo holds a citizenship of Japan,Minamoto no Sanetomo holds a citizenship of Ukraine,Ukraine
+Rahul Dev Burman,have-citizenship-of,India,P27,Rahul Dev Burman has a citizenship of,Rahul Dev Burman has a citizenship of India,Rahul Dev Burman has a citizenship of Morocco,Morocco
+Abdelhak Achik,have-citizenship-of,Morocco,P27,"Abdelhak Achik, who has a citizenship of","Abdelhak Achik, who has a citizenship of Morocco","Abdelhak Achik, who has a citizenship of Ireland",Ireland
+Linor Abargil,hold-citizenship-of,Israel,P27,"Linor Abargil, who holds a citizenship of","Linor Abargil, who holds a citizenship of Israel","Linor Abargil, who holds a citizenship of Thailand",Thailand
+Thomas Bo Larsen,citizen-of,Denmark,P27,"Thomas Bo Larsen, a citizen of","Thomas Bo Larsen, a citizen of Denmark","Thomas Bo Larsen, a citizen of Ireland",Ireland
+Iiro Rantala,is-citizen-of,Finland,P27,Iiro Rantala is a citizen of,Iiro Rantala is a citizen of Finland,Iiro Rantala is a citizen of Iran,Iran
+Mario Aerts,have-citizenship-of,Belgium,P27,"Mario Aerts, who has a citizenship of","Mario Aerts, who has a citizenship of Belgium","Mario Aerts, who has a citizenship of Singapore",Singapore
+Noriyasu Hirata,hold-citizenship-of,Japan,P27,Noriyasu Hirata holds a citizenship of,Noriyasu Hirata holds a citizenship of Japan,Noriyasu Hirata holds a citizenship of Bangladesh,Bangladesh
+Norval Morrisseau,have-citizenship-of,Canada,P27,Norval Morrisseau has a citizenship of,Norval Morrisseau has a citizenship of Canada,Norval Morrisseau has a citizenship of Japan,Japan
+Cian O'Connor,is-citizen-of,Ireland,P27,Cian O'Connor is a citizen of,Cian O'Connor is a citizen of Ireland,Cian O'Connor is a citizen of Brazil,Brazil
+Ronaldinho,have-citizenship-of,Brazil,P27,"Ronaldinho, who has a citizenship of","Ronaldinho, who has a citizenship of Brazil","Ronaldinho, who has a citizenship of Morocco",Morocco
+Tomoko Kawase,hold-citizenship-of,Japan,P27,Tomoko Kawase holds a citizenship of,Tomoko Kawase holds a citizenship of Japan,Tomoko Kawase holds a citizenship of Pakistan,Pakistan
+Caterina Davinio,have-citizenship-of,Italy,P27,"Caterina Davinio, who has a citizenship of","Caterina Davinio, who has a citizenship of Italy","Caterina Davinio, who has a citizenship of Taiwan",Taiwan
+Ahmad Nadeem Qasmi,have-citizenship-of,Pakistan,P27,"Ahmad Nadeem Qasmi, who has a citizenship of","Ahmad Nadeem Qasmi, who has a citizenship of Pakistan","Ahmad Nadeem Qasmi, who has a citizenship of Greece",Greece
+Jakub Kubicki,is-citizen-of,Poland,P27,Jakub Kubicki is a citizen of,Jakub Kubicki is a citizen of Poland,Jakub Kubicki is a citizen of Kenya,Kenya
+Albert Hofmann,citizen-of,Switzerland,P27,"Albert Hofmann, a citizen of","Albert Hofmann, a citizen of Switzerland","Albert Hofmann, a citizen of Turkey",Turkey
+Masahiko Nishimura,hold-citizenship-of,Japan,P27,Masahiko Nishimura holds a citizenship of,Masahiko Nishimura holds a citizenship of Japan,Masahiko Nishimura holds a citizenship of Denmark,Denmark
+Wakako Tsuchida,have-citizenship-of,Japan,P27,Wakako Tsuchida has a citizenship of,Wakako Tsuchida has a citizenship of Japan,Wakako Tsuchida has a citizenship of Canada,Canada
+Magnar Solberg,citizen-of,Norway,P27,"Magnar Solberg, a citizen of","Magnar Solberg, a citizen of Norway","Magnar Solberg, a citizen of Russia",Russia
+Luigi Lanzi,hold-citizenship-of,Italy,P27,"Luigi Lanzi, who holds a citizenship of","Luigi Lanzi, who holds a citizenship of Italy","Luigi Lanzi, who holds a citizenship of Turkey",Turkey
+Eiko Shimamiya,hold-citizenship-of,Japan,P27,Eiko Shimamiya holds a citizenship of,Eiko Shimamiya holds a citizenship of Japan,Eiko Shimamiya holds a citizenship of Sweden,Sweden
+Kimio Yanagisawa,is-citizen-of,Japan,P27,Kimio Yanagisawa is a citizen of,Kimio Yanagisawa is a citizen of Japan,Kimio Yanagisawa is a citizen of Denmark,Denmark
+Bhaktisiddhanta Saraswati,have-citizenship-of,India,P27,Bhaktisiddhanta Saraswati has a citizenship of,Bhaktisiddhanta Saraswati has a citizenship of India,Bhaktisiddhanta Saraswati has a citizenship of Pakistan,Pakistan
+Dilma Rousseff,have-citizenship-of,Brazil,P27,"Dilma Rousseff, who has a citizenship of","Dilma Rousseff, who has a citizenship of Brazil","Dilma Rousseff, who has a citizenship of Latvia",Latvia
+Maud Olofsson,is-citizen-of,Sweden,P27,Maud Olofsson is a citizen of,Maud Olofsson is a citizen of Sweden,Maud Olofsson is a citizen of Finland,Finland
+Kazimierz Nycz,is-citizen-of,Poland,P27,Kazimierz Nycz is a citizen of,Kazimierz Nycz is a citizen of Poland,Kazimierz Nycz is a citizen of India,India
+Jennifer Heil,have-citizenship-of,Canada,P27,Jennifer Heil has a citizenship of,Jennifer Heil has a citizenship of Canada,Jennifer Heil has a citizenship of Romania,Romania
+Giorgia,have-citizenship-of,Italy,P27,Giorgia has a citizenship of,Giorgia has a citizenship of Italy,Giorgia has a citizenship of Iran,Iran
+Paolo Chiavenna,is-citizen-of,Italy,P27,Paolo Chiavenna is a citizen of,Paolo Chiavenna is a citizen of Italy,Paolo Chiavenna is a citizen of Romania,Romania
+Habib el-Adly,citizen-of,Egypt,P27,"Habib el-Adly, a citizen of","Habib el-Adly, a citizen of Egypt","Habib el-Adly, a citizen of Norway",Norway
+Sachimi Iwao,is-citizen-of,Japan,P27,Sachimi Iwao is a citizen of,Sachimi Iwao is a citizen of Japan,Sachimi Iwao is a citizen of Canada,Canada
+Harumi Inoue,hold-citizenship-of,Japan,P27,Harumi Inoue holds a citizenship of,Harumi Inoue holds a citizenship of Japan,Harumi Inoue holds a citizenship of Egypt,Egypt
+Mateo Gil,have-citizenship-of,Spain,P27,"Mateo Gil, who has a citizenship of","Mateo Gil, who has a citizenship of Spain","Mateo Gil, who has a citizenship of Belgium",Belgium
+Rokkaku Yoshikata,hold-citizenship-of,Japan,P27,Rokkaku Yoshikata holds a citizenship of,Rokkaku Yoshikata holds a citizenship of Japan,Rokkaku Yoshikata holds a citizenship of Italy,Italy
+Alireza Eftekhari,is-citizen-of,Iran,P27,Alireza Eftekhari is a citizen of,Alireza Eftekhari is a citizen of Iran,Alireza Eftekhari is a citizen of Russia,Russia
+Hiroshi Teshigahara,have-citizenship-of,Japan,P27,Hiroshi Teshigahara has a citizenship of,Hiroshi Teshigahara has a citizenship of Japan,Hiroshi Teshigahara has a citizenship of Iran,Iran
+Farley Mowat,hold-citizenship-of,Canada,P27,Farley Mowat holds a citizenship of,Farley Mowat holds a citizenship of Canada,Farley Mowat holds a citizenship of India,India
+Rajeev Chandrasekhar,is-citizen-of,India,P27,Rajeev Chandrasekhar is a citizen of,Rajeev Chandrasekhar is a citizen of India,Rajeev Chandrasekhar is a citizen of Ukraine,Ukraine
+Aleksejs Saramotins,is-citizen-of,Latvia,P27,Aleksejs Saramotins is a citizen of,Aleksejs Saramotins is a citizen of Latvia,Aleksejs Saramotins is a citizen of Finland,Finland
+Qazi Hussain Ahmad,have-citizenship-of,Pakistan,P27,"Qazi Hussain Ahmad, who has a citizenship of","Qazi Hussain Ahmad, who has a citizenship of Pakistan","Qazi Hussain Ahmad, who has a citizenship of Israel",Israel
+Gopaldas Neeraj,have-citizenship-of,India,P27,Gopaldas Neeraj has a citizenship of,Gopaldas Neeraj has a citizenship of India,Gopaldas Neeraj has a citizenship of Italy,Italy
+Yoshio Shirai,have-citizenship-of,Japan,P27,Yoshio Shirai has a citizenship of,Yoshio Shirai has a citizenship of Japan,Yoshio Shirai has a citizenship of Kenya,Kenya
+Mateo Garralda,have-citizenship-of,Spain,P27,"Mateo Garralda, who has a citizenship of","Mateo Garralda, who has a citizenship of Spain","Mateo Garralda, who has a citizenship of Belgium",Belgium
+Andrei Soldatov,citizen-of,Russia,P27,"Andrei Soldatov, who is a citizen of","Andrei Soldatov, who is a citizen of Russia","Andrei Soldatov, who is a citizen of Greece",Greece
+Guillaume-Antoine Olivier,is-citizen-of,France,P27,Guillaume-Antoine Olivier is a citizen of,Guillaume-Antoine Olivier is a citizen of France,Guillaume-Antoine Olivier is a citizen of Denmark,Denmark
+Thiago Soares Alves,is-citizen-of,Brazil,P27,Thiago Soares Alves is a citizen of,Thiago Soares Alves is a citizen of Brazil,Thiago Soares Alves is a citizen of France,France
+Mohsen Mirdamadi,is-citizen-of,Iran,P27,Mohsen Mirdamadi is a citizen of,Mohsen Mirdamadi is a citizen of Iran,Mohsen Mirdamadi is a citizen of India,India
+Antonio Banfi,hold-citizenship-of,Italy,P27,"Antonio Banfi, who holds a citizenship of","Antonio Banfi, who holds a citizenship of Italy","Antonio Banfi, who holds a citizenship of Turkey",Turkey
+Heikki Saari,is-citizen-of,Finland,P27,Heikki Saari is a citizen of,Heikki Saari is a citizen of Finland,Heikki Saari is a citizen of Romania,Romania
+Sukhdev Thapar,is-citizen-of,India,P27,Sukhdev Thapar is a citizen of,Sukhdev Thapar is a citizen of India,Sukhdev Thapar is a citizen of Iran,Iran
+Kenta Fukasaku,hold-citizenship-of,Japan,P27,Kenta Fukasaku holds a citizenship of,Kenta Fukasaku holds a citizenship of Japan,Kenta Fukasaku holds a citizenship of Finland,Finland
+Henryk Sienkiewicz,citizen-of,Poland,P27,"Henryk Sienkiewicz, who is a citizen of","Henryk Sienkiewicz, who is a citizen of Poland","Henryk Sienkiewicz, who is a citizen of Argentina",Argentina
+Juliusz Gardan,have-citizenship-of,Poland,P27,"Juliusz Gardan, who has a citizenship of","Juliusz Gardan, who has a citizenship of Poland","Juliusz Gardan, who has a citizenship of Israel",Israel
+Rangsit Prayurasakdi,is-citizen-of,Thailand,P27,Rangsit Prayurasakdi is a citizen of,Rangsit Prayurasakdi is a citizen of Thailand,Rangsit Prayurasakdi is a citizen of Ukraine,Ukraine
+Paolo Martin,have-citizenship-of,Italy,P27,"Paolo Martin, who has a citizenship of","Paolo Martin, who has a citizenship of Italy","Paolo Martin, who has a citizenship of Romania",Romania
+Koichi Kobayashi,is-citizen-of,Japan,P27,Koichi Kobayashi is a citizen of,Koichi Kobayashi is a citizen of Japan,Koichi Kobayashi is a citizen of Greece,Greece
+Lucien Van Impe,have-citizenship-of,Belgium,P27,"Lucien Van Impe, who has a citizenship of","Lucien Van Impe, who has a citizenship of Belgium","Lucien Van Impe, who has a citizenship of Spain",Spain
+Ikki Kajiwara,is-citizen-of,Japan,P27,Ikki Kajiwara is a citizen of,Ikki Kajiwara is a citizen of Japan,Ikki Kajiwara is a citizen of Canada,Canada
+Nandan Nilekani,is-citizen-of,India,P27,Nandan Nilekani is a citizen of,Nandan Nilekani is a citizen of India,Nandan Nilekani is a citizen of Australia,Australia
+Kazi Nazrul Islam,citizen-of,Bangladesh,P27,"Kazi Nazrul Islam, a citizen of","Kazi Nazrul Islam, a citizen of Bangladesh","Kazi Nazrul Islam, a citizen of Belgium",Belgium
+Ambar Roy,have-citizenship-of,India,P27,Ambar Roy has a citizenship of,Ambar Roy has a citizenship of India,Ambar Roy has a citizenship of Sweden,Sweden
+Arvid Lindman,citizen-of,Sweden,P27,"Arvid Lindman, who is a citizen of","Arvid Lindman, who is a citizen of Sweden","Arvid Lindman, who is a citizen of Afghanistan",Afghanistan
+Kumiko Ogura,have-citizenship-of,Japan,P27,Kumiko Ogura has a citizenship of,Kumiko Ogura has a citizenship of Japan,Kumiko Ogura has a citizenship of Pakistan,Pakistan
+Kaka Hathrasi,have-citizenship-of,India,P27,Kaka Hathrasi has a citizenship of,Kaka Hathrasi has a citizenship of India,Kaka Hathrasi has a citizenship of Russia,Russia
+Sola Aoi,have-citizenship-of,Japan,P27,Sola Aoi has a citizenship of,Sola Aoi has a citizenship of Japan,Sola Aoi has a citizenship of Norway,Norway
+Wanda Rutkiewicz,have-citizenship-of,Poland,P27,"Wanda Rutkiewicz, who has a citizenship of","Wanda Rutkiewicz, who has a citizenship of Poland","Wanda Rutkiewicz, who has a citizenship of France",France
+Giovanni Lista,have-citizenship-of,Italy,P27,"Giovanni Lista, who has a citizenship of","Giovanni Lista, who has a citizenship of Italy","Giovanni Lista, who has a citizenship of Thailand",Thailand
+Gustave Flourens,is-citizen-of,France,P27,Gustave Flourens is a citizen of,Gustave Flourens is a citizen of France,Gustave Flourens is a citizen of Thailand,Thailand
+Poonam Sinha,have-citizenship-of,India,P27,Poonam Sinha has a citizenship of,Poonam Sinha has a citizenship of India,Poonam Sinha has a citizenship of Argentina,Argentina
+Bibi Andersson,is-citizen-of,Sweden,P27,Bibi Andersson is a citizen of,Bibi Andersson is a citizen of Sweden,Bibi Andersson is a citizen of Norway,Norway
+Priyanka Vadra,have-citizenship-of,India,P27,Priyanka Vadra has a citizenship of,Priyanka Vadra has a citizenship of India,Priyanka Vadra has a citizenship of Denmark,Denmark
+Agnieszka Osiecka,is-citizen-of,Poland,P27,Agnieszka Osiecka is a citizen of,Agnieszka Osiecka is a citizen of Poland,Agnieszka Osiecka is a citizen of Sweden,Sweden
